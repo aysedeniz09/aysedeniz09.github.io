@@ -128,3 +128,214 @@ Winkler, C., & **Lokmanoglu, A.** (2019). Communicating Terrorism and Counterter
 **Lokmanoglu, A.**, Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., Abhari, R. (under review). Social Media Amplification of Risk about COVID-19 Vaccination and Vaccine Acceptance Among Peruvian Social Media Users: A Longitudinal Time Series Analysis. *Telematics and Informatics Reports*
 
 **Lokmanoglu, A.** (under review) Righteous Currencies and Supremacy: The story of coins in Christian Nationalism and Salafi-Jihadism. *New Media & Society*
+
+### Book Manuscripts in Progress
+
+*Challenging Economic Communication: Economic Messaging of Non-State Actors*, Book Proposal and Draft Manuscript
+
+### Book Review and Bibliographies 
+
+`2021`
+Teiner, D., Furlan, M., **Lokmanoglu, A.**, & McDonald, B. (2021). Bibliography: Rebel Governance. *Perspectives on Terrorism*, 15(5), 145–165. [Link](https://www.jstor.org/stable/27073447)
+
+`2021`
+**Lokmanoglu, A.** (2021). Targeting top terrorists: Understanding leadership removal in counterterrorism strategy: by Bryan C Price, New York, Columbia University Press, 2019, 288 pp., $32 (paperback), ISBN 978-0-231-18823-4. *South African Journal of International Affairs*, 1–2. [DOI](https://doi.org/10.1080/10220461.2021.1919195) 
+
+### Policy Articles (Selected)
+
+Ophir, Y., Pruden, M. L., Walter, D., & **Lokmanoglu, A.** (2022, July 20). White Nationalism, Stormfront, and the Extremist Politicisation of Science. *Global Network on Extremism & Terrorism (GNET)*. [Link](https://gnet-research.org/2022/07/20/white-nationalism-stormfront-and-the-extremist-politicisation-of-science/)
+
+McMinimy, K., & **Lokmanoglu, A.** (2021, November 26). Censoring Extremism: Impact of Takedowns on Islamic State Visuals. *Global Network on Extremism & Terrorism (GNET)*. [Link](https://gnet-research.org/2021/11/26/censoring-extremism-impact-of-takedowns-on-islamic-state-visuals/) 
+
+Criezis, M., & **Lokmanoglu, A.** (2020, November 13). Baghdadi Fan Mail. *Global Network on Extremism & Terrorism (GNET)*. [Link](https://gnet-research.org/2020/11/13/baghdadi-fan-mail/) 
+
+**Lokmanoglu, A.** (2020, July 28). Islamic State’s coins and the power of imagined statehood. *The ISIS Reader*. [Link](http://theisisreader.com/islamic-states-coins-and-the-power-of-imagined-statehood/) 
+
+Allison, B. V., & **Lokmanoglu, A.** (2020, July 13). Why CHAZ/CHOP Failed. *Inkstick*. [Link](https://inkstickmedia.com/why-chaz-chop-failed/)
+
+### Conference Presentations
+
+`2022`
+**Lokmanoglu, A.** (2022, November 18). *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Critical and Cultural Studies Division, National Communication Association (NCA), New Orleans, LA. 
+
+`2022`
+**Lokmanoglu, A.**, Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R. (2022, November 18). Social Media Amplification of Risk about COVID-19 Vaccination and Vaccine Acceptance Among Peruvian Social Media Users: A Longitudinal Time Series Analysis. Mass Communication Division, National Communication Association (NCA), New Orleans, LA. 
+
+
+`2022`
+Nisbet, E., **Lokmanoglu, A.**, Kamenchuk, O., Abhari, R. M., Villa Turek, E., Mortenson, C. R., Suresh, S., & Jenkin, S. (2022, November 19). *How foreign propaganda claims penetrates American domestic partisan news: The case of Ukraine*. International and Intercultural Communication Division, National Communication Association (NCA), New Orleans, LA. 
+
+`2022`
+Saucier, C., Nisbet, E., **Lokmanoglu, A.**, Bond, R., Dixon, G., Garrett, R. K., Hovick, S. H., Na. K., & Wegener, D., (2022, November 18). *Of Two Minds? How Consistency and Belonging Bias the Need for Evidence about COVID-19*. Political Communication Division, National Communication Association (NCA), New Orleans, LA. 
+
+`2022`
+**Lokmanoglu, A.** (2022, March 27). *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Broadening Our Approach: A Workshop on Comparative Political Communication, Duke University, Durham, NC.
+
+`2022`
+**Lokmanoglu, A.** (2022) *Two and a Half Years Into the Pandemic: Extremist Decision-making and Communication During COVID-19* [Roundtable Participant]. International Studies Association, Nashville, TN.
+
+`2022`
+**Lokmanoglu, A.**, Winkler, C., Almahmoud, M. (2022). *Merging Rhetorical Studies and Big Data to Better Understand Rhetorical Acts of Violence in ISIS Publications*. International Studies Association, Nashville, TN.
+
+
+`2022`
+McMinimy, K., **Lokmanoglu, A.** (2022). *Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS*. International Studies Association, Nashville, TN.
+
+`2021`
+**Lokmanoglu, A.** (2021). *Performative Statehood in the Virtual World: The Family*. Middle Eastern Studies Association (MESA), online. 
+
+`2021`
+Veilleux-Lepage, Y., **Lokmanoglu, A.**, Phelan, A. (2021). *Analysis of the Extreme Right and Islamic State Women’s Only Forum*. Counterterrorism in a Global Perspective Virtual Workshop funded by Institute of Security and Global Affairs (ISGA), Leiden University and The Hague University of Applied Sciences (THUAS).
+
+`2021`
+Pruden, M., **Lokmanoglu, A.**, Petershcek, A., & Veilleux-LePage, Y. (2021) *Birds of a Feather: A Comparative Analysis of White Supremacist and Violent Male Supremacist Discourses*. Top Papers in Peace and Conflict Communication in National Communication Association, Seattle, WA. 
+
+`2021`
+**Lokmanoglu, A.**, Walter, D., Pruden, M., Veilleux-Lepage, Y., & Goodwin, C. (2021). *Ideologize Globally, Mobilize Locally: The Internationalization of Far-Right Online Discourse*. International Communications Associations (ICA), online.
+
+`2021`
+**Lokmanoglu, A.** (2021). *Monetary Economics as State Building – Non-State Actors Challenging International Financial Systems*. International Studies Association, online.
+
+`2021`
+**Lokmanoglu, A.** (2021). *Performative Governance in the Digital World – ISIS and Monetary Economics*. Technology and Governance: Exploring Law and Innovation in the Absence of State Governance, Programme in Comparative Media Law and Policy, Centre for Socio-Legal Studies, Law Faculty at the University of Oxford.
+
+`2021`
+**Lokmanoglu, A.** (2021). *Monetary Economics as State-Building—ISIS and Performative Governance*. The State in Flux Graduate Winter School Program, Arab Center for Research and Policy Studies Doha Institute.
+
+`2020`
+**Lokmanoglu, A.** (2020). *Monetary Economics as State Building – ISIS Challenging Traditional Norms of Statehood*. Islamist Rebel Governance Workshop, Centre on Conflict, Development and Peacebuilding (CCDP), The Graduate Institute Geneva, Switzerland.
+
+`2020`
+**Lokmanoglu, A.**, Walter, D., Veilleux-Lepage, Y., & Pruden, M. (2020, September). *Exploring the Internationalization of Far-Right Movements*. American Political Science Association, San Francisco, CA.
+
+`2020`
+**Lokmanoglu, A.**, & Veilleux-Lepage, Y. (2020). *Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum*. International Studies Association, Honolulu, Hawaii (cancelled due to COVID-19 pandemic).
+
+`2020`
+**Lokmanoglu, A.** (2020). *Statehood through social media? ISIS Videos on Legitimizing Statehood to the International World*. International Studies Association (ISA), Honolulu, Hawaii (cancelled due to COVID-19 pandemic).
+
+`2019`
+**Lokmanoglu, A.**, Kaczkowski, W., & Winkler, C. (2019). *Definitions Matter: A Comparison of Government and Media Databases on Terrorism*. Society of Terrorism Research, Oslo, Norway.
+
+`2019`
+**Lokmanoglu, A.**, & Veilleux-Lepage, Y. (2019). *Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum*. Society of Terrorism Research, Oslo, Norway.
+
+`2018`
+**Lokmanoglu, A.** (2018). *Fatal Attraction: ISIS’s Media Strategy for Appealing and Recruiting Women*. VOX-Pol Violent Extremism, Terrorism, and the Internet: Present and Future Trends Conference, Amsterdam, Netherlands.
+
+`2018`
+**Lokmanoglu, A.** (2018). *A textual and visual analysis of ISIS Media Channels for Women*. Middle Eastern Studies Association (MESA), San Antonio, TX.
+
+### Invited Talks (Selected)
+
+`2022`
+**Lokmanoglu, A.** (2022, October 13). Conspiracies and Disinformation/Misinformation [Panel Participant]. Canadian Association for Terrorism, Security, and Society (TSAS) Gala Conference
+
+`2022`
+**Lokmanoglu, A.** (2022, May 13). Righteous Currencies in Extreme Ideologies: IS Coins, TrumpCoins and FREEdom Coins. Cryptocurrency and Societal Harm Symposium and Special Issue of the Journal of Online Trust and Safety, Stanford Internet Observatory, Stanford University, Stanford, CA. 
+
+`2022`
+**Lokmanoglu, A.** (2022), Terrorism, Misinformation and Censorship. Lecture for DIPL6130 International Security, Dr. Joseph Huddleston, School of Diplomacy and International Relations, Seton Hall University
+
+`2021`
+**Lokmanoglu, A.** (2021), Responsible Data Science Community of Practice [Panel Participant]. Fall Forum of Translational Data Analytics Institute (TDAI), The Ohio State University (virtual)
+
+`2021`
+**Lokmanoglu, A.** (2021). Women’s Changing Roles in Terrorism. Lecture for ATS1701 Terrorism and Political Violence (Undergraduate), Dr. Alexandra Phelan, School of Social Sciences, Monash University
+ 
+## R & Python Tutorials
+
+### R
+
+LDA Topic Modeling in Arabic with Network Analysis [GitHub](https://github.com/aysedeniz09/ThematicClusters/blob/main/An_github_tm_clusters.md) 
+
+LDA Topic Modeling in Russian [GitHub](https://github.com/nwccpp/russia_foreignvaccine_paper)
+
+LDA Topic Modeling in Spanish and English [GitHub](https://github.com/nwccpp/peru-sarf)
+
+LDA Topic Models with Statistical Analysis VAR, Beta Regression and OLS [GitHub](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
+
+Arabic and English OCR [GitHub](https://github.com/aysedeniz09/dissertation)
+
+Random Effects and Interaction Models in Panel Analysis [GitHub](https://github.com/nwccpp/NFE_NFB)
+
+### Python
+
+How to iterate over outliers in BERTopic [GitHub](https://github.com/nwccpp/bertopicclassifier)		
+
+How to create a classifier using BERTopic [GitHub](https://github.com/nwccpp/bertopicclassifier) 
+
+ANTMN analysis on BERTopic [GitHub](https://github.com/aysedeniz09/bertmodels/blob/main/Bert_Antmn_Github.ipynb)
+
+News Article Scraper [GitHub](https://github.com/nwccpp/covid_news/blob/main/nw_en_scrape.py)
+
+## Teaching
+
+### Instructor
+
+*IMSISS Erasmus Mundus Joint Master’s Degree in Security and Intelligence*<br/>
+Social Media Analytics (Graduate Course), Spring 2023
+		
+*2nd SocialComQuant Summer School on Computational Social Science*<br/>
+Methods for analyzing and modeling textual data (Graduate Course), Summer 2022 
+
+*Georgia State University*<br/>
+Media, Culture and Society (Undergraduate Course), Spring 2020
+
+## Skills, Sofware & Languages
+
+*Research Methods* - Automated Text Analysis, Topic Modeling, Word Embeddings, Machine Learning, Network Analysis, Content Analysis, Rhetorical Analysis, Statistical Modeling (including Time Series, Structural Equation Modeling, Longitudinal Panel Data Analysis and Spatial Analysis)
+
+*Statistical Software* - R Studio (advanced), Python (advanced), Gephi, MATLAB, SPSS (Data Entry & Statistical Analysis) and STATA
+
+*Languages*
+| Speaking         | Reading       | Writing       | Speaking       |
+| ------------------ | ------------- | ------------- |  ------------- |
+| English (native)   | fluent        | fluent        |  fluent        |
+| Turkish (native)   | fluent        | fluent        |  fluent        |
+| Spanish            | basic         | basic         |  fluent        |
+| Arabic (msa)       | n/a           | basic         |  basic         |
+| Arabic (Levantine) | beginner      | n/a           |  n/a           |
+
+## Professional Affiliations & Service 
+
+### Affiliations
+- Member, National Communication Association
+- Member, International Communication Association
+- Member, American Political Science Association 
+- Member, International Studies Association
+- Member, Middle Eastern Studies Association
+- Member, Women in Data Science (WIDS) Chicago Chapter
+
+### Service to the University
+- Judge, Northwestern University Undergraduate Research Expo Judge
+- Vice President, Georgia State University Communication Graduate Student Association (CGSA) (2020-2021)
+- Treasurer, Georgia State University Communication Graduate Student Association (CGSA) (2019-2020)
+
+### Journal Reviews
+- Reviewer, International Journal of Communication
+- Reviewer, Studies of Conflict and Terrorism (Special Issue: Gender and Terrorism)
+- Reviewer, Perspectives of Terrorism
+- Reviewer, Journal of Peace Research
+- Reviewer, New Media & Society
+
+### Special Issue 
+- Co-editor, Special Issue in The (International) Politics of Content Takedowns: Theory, Practice, Ethics, Policy & Internet (forthcoming September 2023)
+
+### Service to the Field
+- Mentor in Chicago Area Behavioral (CAB) Workshop, Northwestern University
+- Women in Data (WID) Science Competition Participant 
+- Future Strategy Forum Graduate Student Cohort by The Center for Strategic and International Studies (CSIS) and the Henry A. Kissinger Center for Global Affairs at the Johns Hopkins School of Advanced International Studies (SAIS) and Bridging the Gap Project (BtG) (2020) 
+
+### Service to the Community
+- Volunteer, Mersin City Council Refugee Initiative, assistance including sanitary housing, refugee vaccination formulating educational plans for K-5, and fundraising (2012 – present).  
+- Global Relations Forum (GIFGRF), Istanbul Turkey, GRF Young Professionals Program (2013-2014)
+- Admission Ambassador, Cornell University, Istanbul, Turkey (2009-present), Atlanta, GA, USA (2017-2021) & Chicago, IL, USA (2021-present)
+### Certificates
+- Mental Health First Aid (MHFA) USA, 2022-2025
+- Longitudinal Data Analysis Using R, Instructor: Stephen Vaisey, Statistical Horizon, November 2021
+- Longitudinal Data Analysis Using SEM, Instructor: Paul Allison, Statistical Horizon, October 2021
+
+***References will be provided upon request***
+
+<br/>Last updated: November 2022<br/><br/>
