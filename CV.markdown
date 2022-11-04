@@ -290,8 +290,9 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 
 *Languages*
 <div class="datatable-begin"></div>
-| Speaking         | Reading       | Writing       | Speaking       |
+| Speaking           | Reading       | Writing       | Speaking       |
 | ------------------ | ------------- | ------------- |  ------------- |
+
 | English (native)   | fluent        | fluent        |  fluent        |
 | Turkish (native)   | fluent        | fluent        |  fluent        |
 | Spanish            | basic         | basic         |  fluent        |
