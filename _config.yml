@@ -28,6 +28,7 @@ twitter_username: aysdeniz_9
 github_username:  aysedeniz09
 
 # Build settings
+theme: Slate
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
