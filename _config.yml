@@ -24,14 +24,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   ADL GitHub
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: aysdeniz_9
+twitter_username: aysedeniz_9
 github_username:  aysedeniz09
 
 # Build settings
-theme: Slate
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
