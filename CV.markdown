@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: "CV"
 permalink: /CV/
 ---
@@ -58,5 +58,48 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Internal Grants
 9. “Using culturally-centered narratives to eliminate COVID-19 vaccination disparities among Congolese and Somalian refugees in the U.S”, co-PI, Delaney Family Foundation, 38,750 USD, (2022).
+
 ### Fellowships
 10. Presidential Fellow Program in Transcultural Violence and Conflict Initiative Georgia State University (2017-2021) $22,000 per year for 4 years
+
+
+## Publications
+
+*Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=CD335AwAAAAJ&hl=en). \* 
+
+### Peer-Reviewed Journal Articles
+
+`2022`
+11. **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. (2022). Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. Studies in Conflict and Terrorism. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
+
+`2022`
+10. Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** (accepted). Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. European Journal of International Security. [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
+
+`2022`
+9. Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. (2022). Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. Information, Communication & Society. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
+
+`2022`
+8. Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. (2022). Vaccine discourse in white nationalist online communication: A mixed-methods computational approach. Social Science & Medicine, 298, Article 114859. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654)
+
+
+`2022`
+7. Ophir, Y., Walter, N., Walter, D., Velho, R. M., **Lokmanoglu, A. D.**, Pruden, M. L., & Andrews, E. A. (2022). Vaccine Hesitancy Under the Magnifying Glass: A Systematic Review of the Uses and Misuses of an Increasingly Popular Construct. Health Communication, 1–15. [DOI](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2054102)
+
+`2022`
+6. **Lokmanoglu, A. D.**, Winkler, C. K., McMinimy, K., & Almahmoud, M. (2022). ISIS Media and Troop Withdrawal Announcements: Visualizing Community and Resilience. International Journal of Communication, 16, 215–246. [DOI](https://ijoc.org/index.php/ijoc/article/view/18055)
+
+`2021`
+5. McMinimy, K., Winkler, C. K., **Lokmanoglu, A. D.**, & Almahmoud, M. (2021). Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS. Terrorism and Political Violence, 1–17. [DOI](https://doi.org/10.1080/09546553.2021.1988938)
+
+`2021`
+4. Ophir, Y., Walter, D., Arnon, D., **Lokmanoglu, A.**, Tizzoni, M., Carota, J., D’Antiga, L., & Nicastro, E. (2021). The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach. Journal of Health Communication, 26(3), 161–173. [DOI](https://doi.org/10.1080/10810730.2021.1899344) 
+
+`2020`
+3. **Lokmanoglu, A.** (2020). Coin as Imagined Sovereignty: A Rhetorical Analysis of Coins as a Transhistorical Artifact and an Ideograph in Islamic State’s Communication. Studies in Conflict & Terrorism, 44(1), 1–22. [DOI](https://doi.org/10.1080/1057610X.2020.1793458)
+
+`2020`
+2. Bloom, M., & **Lokmanoglu, A.** (2020). From Pawn to Knights: The Changing Role of Women’s Agency in Terrorism? Studies in Conflict & Terrorism, 1–16. [DOI](https://doi.org/10.1080/1057610X.2020.1759263)
+
+`2019`
+1. Kaczkowski, W., Lokmanoglu, A., & Winkler, C. (2019). Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. Cambridge Review of International Affairs, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
+
