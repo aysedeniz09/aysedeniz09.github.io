@@ -1,6 +1,6 @@
 ---
 layout: page
-title: " "
+title: "CV"
 permalink: /CV/
 ---
 
