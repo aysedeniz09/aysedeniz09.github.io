@@ -69,59 +69,59 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Peer-Reviewed Journal Articles
 
-`2022`
-**Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. (2022). Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
 
-`2022`
+**Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
+
+
 Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** (accepted). Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
 
-`2022`
-Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. (2022). Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. *Information, Communication & Society*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
 
-`2022`
-Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. (2022). Vaccine discourse in white nationalist online communication: A mixed-methods computational approach. *Social Science & Medicine*, 298, Article 114859. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654)
+Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. `(2022)`. Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. *Information, Communication & Society*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
 
 
-`2022`
-Ophir, Y., Walter, N., Walter, D., Velho, R. M., **Lokmanoglu, A. D.**, Pruden, M. L., & Andrews, E. A. (2022). Vaccine Hesitancy Under the Magnifying Glass: A Systematic Review of the Uses and Misuses of an Increasingly Popular Construct. *Health Communication*, 1–15. [DOI](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2054102)
+Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. `(2022)`. Vaccine discourse in white nationalist online communication: A mixed-methods computational approach. *Social Science & Medicine*, 298, Article 114859. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654)
 
-`2022`
-**Lokmanoglu, A. D.**, Winkler, C. K., McMinimy, K., & Almahmoud, M. (2022). ISIS Media and Troop Withdrawal Announcements: Visualizing Community and Resilience. *International Journal of Communication*, 16, 215–246. [DOI](https://ijoc.org/index.php/ijoc/article/view/18055)
 
-`2021`
-McMinimy, K., Winkler, C. K., **Lokmanoglu, A. D.**, & Almahmoud, M. (2021). Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS. *Terrorism and Political Violence*, 1–17. [DOI](https://doi.org/10.1080/09546553.2021.1988938)
 
-`2021`
-Ophir, Y., Walter, D., Arnon, D., **Lokmanoglu, A.**, Tizzoni, M., Carota, J., D’Antiga, L., & Nicastro, E. (2021). The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach. *Journal of Health Communication*, 26(3), 161–173. [DOI](https://doi.org/10.1080/10810730.2021.1899344) 
+Ophir, Y., Walter, N., Walter, D., Velho, R. M., **Lokmanoglu, A. D.**, Pruden, M. L., & Andrews, E. A. `(2022)`. Vaccine Hesitancy Under the Magnifying Glass: A Systematic Review of the Uses and Misuses of an Increasingly Popular Construct. *Health Communication*, 1–15. [DOI](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2054102)
 
-`2020`
-**Lokmanoglu, A.** (2020). Coin as Imagined Sovereignty: A Rhetorical Analysis of Coins as a Transhistorical Artifact and an Ideograph in Islamic State’s Communication. *Studies in Conflict & Terrorism, 44(1), 1–22*. [DOI](https://doi.org/10.1080/1057610X.2020.1793458)
 
-`2020`
-Bloom, M., & **Lokmanoglu, A.** (2020). From Pawn to Knights: The Changing Role of Women’s Agency in Terrorism? *Studies in Conflict & Terrorism*, 1–16. [DOI](https://doi.org/10.1080/1057610X.2020.1759263)
+**Lokmanoglu, A. D.**, Winkler, C. K., McMinimy, K., & Almahmoud, M. `(2022)`. ISIS Media and Troop Withdrawal Announcements: Visualizing Community and Resilience. *International Journal of Communication*, 16, 215–246. [DOI](https://ijoc.org/index.php/ijoc/article/view/18055)
 
-`2019`
-Kaczkowski, W., Lokmanoglu, A., & Winkler, C. (2019). Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
+
+McMinimy, K., Winkler, C. K., **Lokmanoglu, A. D.**, & Almahmoud, M. `(2021)`. Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS. *Terrorism and Political Violence*, 1–17. [DOI](https://doi.org/10.1080/09546553.2021.1988938)
+
+
+Ophir, Y., Walter, D., Arnon, D., **Lokmanoglu, A.**, Tizzoni, M., Carota, J., D’Antiga, L., & Nicastro, E. `(2021)`. The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach. *Journal of Health Communication*, 26(3), 161–173. [DOI](https://doi.org/10.1080/10810730.2021.1899344) 
+
+
+**Lokmanoglu, A.** `(2020)`. Coin as Imagined Sovereignty: A Rhetorical Analysis of Coins as a Transhistorical Artifact and an Ideograph in Islamic State’s Communication. *Studies in Conflict & Terrorism, 44(1), 1–22*. [DOI](https://doi.org/10.1080/1057610X.2020.1793458)
+
+
+Bloom, M., & **Lokmanoglu, A.** `(2020)`. From Pawn to Knights: The Changing Role of Women’s Agency in Terrorism? *Studies in Conflict & Terrorism*, 1–16. [DOI](https://doi.org/10.1080/1057610X.2020.1759263)
+
+
+Kaczkowski, W., Lokmanoglu, A., & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
 
 ### Book Chapters 
 
-`2023`
-**Lokmanoglu, A.** (forthcoming, 2023). Performative State building in the Digital World – ISIS and Monetary Economics. In C. Voyvodic & N. Stremlau (Eds.), *Technology and Governance: Exploring Law and Innovation in the Absence of State Governance*. Routledge.
 
-`2022`
-**Lokmanoglu, A.**, & Phelan, A. (forthcoming, Fall 2022). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
+**Lokmanoglu, A.** (forthcoming, `2023`). Performative State building in the Digital World – ISIS and Monetary Economics. In C. Voyvodic & N. Stremlau (Eds.), *Technology and Governance: Exploring Law and Innovation in the Absence of State Governance*. Routledge.
 
-`2022`
-Pruden, M., **Lokmanoglu, A.**, Peterscheck, A., & Veilleux-Lepage, Y. (2022). Birds of a feather: A comparative analysis of white supremacist and violent male supremacist discourses. In B. Perry, J. Gruenwald, & R. Scrivens (Eds.), *Far-right Extremism in North America*. Palgrave.
 
-`2020`
-**Lokmanoglu, A.**, & Veilleux-Lepage, Y. (2020). Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum. In D. M. D. Silva & M. Deflem (Eds.), *Radicalization and Counter-Radicalization* (Vol. 25). Emerald Publishing Limited.
+**Lokmanoglu, A.**, & Phelan, A. (forthcoming, `2022`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
 
-`2020`
-Bloom, M., & **Lokmanoglu, A.** (2020). Conducting Field Work in a Virtual Space, Exploring ISIS’ Encrypted Messaging on Telegram. In P. Krause & O. Szekely (Eds.), *Stories from the Field A Guide to Navigating Fieldwork in Political Science*. Columbia University Press.
 
-`2019`
-Winkler, C., & **Lokmanoglu, A.** (2019). Communicating Terrorism and Counterterrorism. In B. C. Taylor & H. Bean (Eds.), *The Handbook of Communication and Security* (First edition, pp. 381–398). Routledge.
+Pruden, M., **Lokmanoglu, A.**, Peterscheck, A., & Veilleux-Lepage, Y. `(2022)`. Birds of a feather: A comparative analysis of white supremacist and violent male supremacist discourses. In B. Perry, J. Gruenwald, & R. Scrivens (Eds.), *Far-right Extremism in North America*. Palgrave.
+
+
+**Lokmanoglu, A.**, & Veilleux-Lepage, Y. `(2020)`. Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum. In D. M. D. Silva & M. Deflem (Eds.), *Radicalization and Counter-Radicalization* (Vol. 25). Emerald Publishing Limited.
+
+
+Bloom, M., & **Lokmanoglu, A.** `(2020)`. Conducting Field Work in a Virtual Space, Exploring ISIS’ Encrypted Messaging on Telegram. In P. Krause & O. Szekely (Eds.), *Stories from the Field A Guide to Navigating Fieldwork in Political Science*. Columbia University Press.
+
+
+Winkler, C., & **Lokmanoglu, A.** `(2019)`. Communicating Terrorism and Counterterrorism. In B. C. Taylor & H. Bean (Eds.), *The Handbook of Communication and Security* (First edition, pp. 381–398). Routledge.
 
 ### Peer-Reviewed Journal Articles under Review 
 
@@ -135,11 +135,11 @@ Winkler, C., & **Lokmanoglu, A.** (2019). Communicating Terrorism and Counterter
 
 ### Book Review and Bibliographies 
 
-`2021`
-Teiner, D., Furlan, M., **Lokmanoglu, A.**, & McDonald, B. (2021). Bibliography: Rebel Governance. *Perspectives on Terrorism*, 15(5), 145–165. [Link](https://www.jstor.org/stable/27073447)
 
-`2021`
-**Lokmanoglu, A.** (2021). Targeting top terrorists: Understanding leadership removal in counterterrorism strategy: by Bryan C Price, New York, Columbia University Press, 2019, 288 pp., $32 (paperback), ISBN 978-0-231-18823-4. *South African Journal of International Affairs*, 1–2. [DOI](https://doi.org/10.1080/10220461.2021.1919195) 
+Teiner, D., Furlan, M., **Lokmanoglu, A.**, & McDonald, B. `(2021)`. Bibliography: Rebel Governance. *Perspectives on Terrorism*, 15(5), 145–165. [Link](https://www.jstor.org/stable/27073447)
+
+
+**Lokmanoglu, A.** `(2021)`. Targeting top terrorists: Understanding leadership removal in counterterrorism strategy: by Bryan C Price, New York, Columbia University Press, 2019, 288 pp., $32 (paperback), ISBN 978-0-231-18823-4. *South African Journal of International Affairs*, 1–2. [DOI](https://doi.org/10.1080/10220461.2021.1919195) 
 
 ### Policy Articles (Selected)
 
@@ -155,92 +155,93 @@ Allison, B. V., & **Lokmanoglu, A.** (2020, July 13). Why CHAZ/CHOP Failed. *Ink
 
 ### Conference Presentations
 
-`2022`
-**Lokmanoglu, A.** (2022, November 18). *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Critical and Cultural Studies Division, National Communication Association (NCA), New Orleans, LA. 
 
-`2022`
-**Lokmanoglu, A.**, Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R. (2022, November 18). Social Media Amplification of Risk about COVID-19 Vaccination and Vaccine Acceptance Among Peruvian Social Media Users: A Longitudinal Time Series Analysis. Mass Communication Division, National Communication Association (NCA), New Orleans, LA. 
+**Lokmanoglu, A.** `(2022)`. *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Critical and Cultural Studies Division, National Communication Association (NCA), New Orleans, LA. 
 
 
-`2022`
-Nisbet, E., **Lokmanoglu, A.**, Kamenchuk, O., Abhari, R. M., Villa Turek, E., Mortenson, C. R., Suresh, S., & Jenkin, S. (2022, November 19). *How foreign propaganda claims penetrates American domestic partisan news: The case of Ukraine*. International and Intercultural Communication Division, National Communication Association (NCA), New Orleans, LA. 
-
-`2022`
-Saucier, C., Nisbet, E., **Lokmanoglu, A.**, Bond, R., Dixon, G., Garrett, R. K., Hovick, S. H., Na. K., & Wegener, D., (2022, November 18). *Of Two Minds? How Consistency and Belonging Bias the Need for Evidence about COVID-19*. Political Communication Division, National Communication Association (NCA), New Orleans, LA. 
-
-`2022`
-**Lokmanoglu, A.** (2022, March 27). *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Broadening Our Approach: A Workshop on Comparative Political Communication, Duke University, Durham, NC.
-
-`2022`
-**Lokmanoglu, A.** (2022) *Two and a Half Years Into the Pandemic: Extremist Decision-making and Communication During COVID-19* [Roundtable Participant]. International Studies Association, Nashville, TN.
-
-`2022`
-**Lokmanoglu, A.**, Winkler, C., Almahmoud, M. (2022). *Merging Rhetorical Studies and Big Data to Better Understand Rhetorical Acts of Violence in ISIS Publications*. International Studies Association, Nashville, TN.
+**Lokmanoglu, A.**, Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R. `(2022)`. Social Media Amplification of Risk about COVID-19 Vaccination and Vaccine Acceptance Among Peruvian Social Media Users: A Longitudinal Time Series Analysis. Mass Communication Division, National Communication Association (NCA), New Orleans, LA. 
 
 
-`2022`
-McMinimy, K., **Lokmanoglu, A.** (2022). *Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS*. International Studies Association, Nashville, TN.
 
-`2021`
-**Lokmanoglu, A.** (2021). *Performative Statehood in the Virtual World: The Family*. Middle Eastern Studies Association (MESA), online. 
+Nisbet, E., **Lokmanoglu, A.**, Kamenchuk, O., Abhari, R. M., Villa Turek, E., Mortenson, C. R., Suresh, S., & Jenkin, S. `(2022)`. *How foreign propaganda claims penetrates American domestic partisan news: The case of Ukraine*. International and Intercultural Communication Division, National Communication Association (NCA), New Orleans, LA. 
 
-`2021`
-Veilleux-Lepage, Y., **Lokmanoglu, A.**, Phelan, A. (2021). *Analysis of the Extreme Right and Islamic State Women’s Only Forum*. Counterterrorism in a Global Perspective Virtual Workshop funded by Institute of Security and Global Affairs (ISGA), Leiden University and The Hague University of Applied Sciences (THUAS).
 
-`2021`
-Pruden, M., **Lokmanoglu, A.**, Petershcek, A., & Veilleux-LePage, Y. (2021) *Birds of a Feather: A Comparative Analysis of White Supremacist and Violent Male Supremacist Discourses*. Top Papers in Peace and Conflict Communication in National Communication Association, Seattle, WA. 
+Saucier, C., Nisbet, E., **Lokmanoglu, A.**, Bond, R., Dixon, G., Garrett, R. K., Hovick, S. H., Na. K., & Wegener, D., `(2022)`. *Of Two Minds? How Consistency and Belonging Bias the Need for Evidence about COVID-19*. Political Communication Division, National Communication Association (NCA), New Orleans, LA. 
 
-`2021`
-**Lokmanoglu, A.**, Walter, D., Pruden, M., Veilleux-Lepage, Y., & Goodwin, C. (2021). *Ideologize Globally, Mobilize Locally: The Internationalization of Far-Right Online Discourse*. International Communications Associations (ICA), online.
 
-`2021`
-**Lokmanoglu, A.** (2021). *Monetary Economics as State Building – Non-State Actors Challenging International Financial Systems*. International Studies Association, online.
+**Lokmanoglu, A.** `(2022)`. *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Broadening Our Approach: A Workshop on Comparative Political Communication, Duke University, Durham, NC.
 
-`2021`
-**Lokmanoglu, A.** (2021). *Performative Governance in the Digital World – ISIS and Monetary Economics*. Technology and Governance: Exploring Law and Innovation in the Absence of State Governance, Programme in Comparative Media Law and Policy, Centre for Socio-Legal Studies, Law Faculty at the University of Oxford.
 
-`2021`
-**Lokmanoglu, A.** (2021). *Monetary Economics as State-Building—ISIS and Performative Governance*. The State in Flux Graduate Winter School Program, Arab Center for Research and Policy Studies Doha Institute.
+**Lokmanoglu, A.** `(2022)` *Two and a Half Years Into the Pandemic: Extremist Decision-making and Communication During COVID-19* [Roundtable Participant]. International Studies Association, Nashville, TN.
 
-`2020`
-**Lokmanoglu, A.** (2020). *Monetary Economics as State Building – ISIS Challenging Traditional Norms of Statehood*. Islamist Rebel Governance Workshop, Centre on Conflict, Development and Peacebuilding (CCDP), The Graduate Institute Geneva, Switzerland.
 
-`2020`
-**Lokmanoglu, A.**, Walter, D., Veilleux-Lepage, Y., & Pruden, M. (2020, September). *Exploring the Internationalization of Far-Right Movements*. American Political Science Association, San Francisco, CA.
+**Lokmanoglu, A.**, Winkler, C., Almahmoud, M. `(2022)`. *Merging Rhetorical Studies and Big Data to Better Understand Rhetorical Acts of Violence in ISIS Publications*. International Studies Association, Nashville, TN.
 
-`2020`
-**Lokmanoglu, A.**, & Veilleux-Lepage, Y. (2020). *Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum*. International Studies Association, Honolulu, Hawaii (cancelled due to COVID-19 pandemic).
 
-`2020`
-**Lokmanoglu, A.** (2020). *Statehood through social media? ISIS Videos on Legitimizing Statehood to the International World*. International Studies Association (ISA), Honolulu, Hawaii (cancelled due to COVID-19 pandemic).
 
-`2019`
-**Lokmanoglu, A.**, Kaczkowski, W., & Winkler, C. (2019). *Definitions Matter: A Comparison of Government and Media Databases on Terrorism*. Society of Terrorism Research, Oslo, Norway.
+McMinimy, K., **Lokmanoglu, A.** `(2022)`. *Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS*. International Studies Association, Nashville, TN.
 
-`2019`
-**Lokmanoglu, A.**, & Veilleux-Lepage, Y. (2019). *Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum*. Society of Terrorism Research, Oslo, Norway.
 
-`2018`
-**Lokmanoglu, A.** (2018). *Fatal Attraction: ISIS’s Media Strategy for Appealing and Recruiting Women*. VOX-Pol Violent Extremism, Terrorism, and the Internet: Present and Future Trends Conference, Amsterdam, Netherlands.
+**Lokmanoglu, A.** `(2021)`. *Performative Statehood in the Virtual World: The Family*. Middle Eastern Studies Association (MESA), online. 
 
-`2018`
-**Lokmanoglu, A.** (2018). *A textual and visual analysis of ISIS Media Channels for Women*. Middle Eastern Studies Association (MESA), San Antonio, TX.
+
+Veilleux-Lepage, Y., **Lokmanoglu, A.**, Phelan, A. `(2021)`. *Analysis of the Extreme Right and Islamic State Women’s Only Forum*. Counterterrorism in a Global Perspective Virtual Workshop funded by Institute of Security and Global Affairs (ISGA), Leiden University and The Hague University of Applied Sciences (THUAS).
+
+
+Pruden, M., **Lokmanoglu, A.**, Petershcek, A., & Veilleux-LePage, Y. `(2021)` *Birds of a Feather: A Comparative Analysis of White Supremacist and Violent Male Supremacist Discourses*. Top Papers in Peace and Conflict Communication in National Communication Association, Seattle, WA. 
+
+
+**Lokmanoglu, A.**, Walter, D., Pruden, M., Veilleux-Lepage, Y., & Goodwin, C. `(2021)`. *Ideologize Globally, Mobilize Locally: The Internationalization of Far-Right Online Discourse*. International Communications Associations (ICA), online.
+
+
+**Lokmanoglu, A.** `(2021)`. *Monetary Economics as State Building – Non-State Actors Challenging International Financial Systems*. International Studies Association, online.
+
+
+**Lokmanoglu, A.** `(2021)`. *Performative Governance in the Digital World – ISIS and Monetary Economics*. Technology and Governance: Exploring Law and Innovation in the Absence of State Governance, Programme in Comparative Media Law and Policy, Centre for Socio-Legal Studies, Law Faculty at the University of Oxford.
+
+
+**Lokmanoglu, A.** `(2021)`. *Monetary Economics as State-Building—ISIS and Performative Governance*. The State in Flux Graduate Winter School Program, Arab Center for Research and Policy Studies Doha Institute.
+
+
+**Lokmanoglu, A.** `(2020)`. *Monetary Economics as State Building – ISIS Challenging Traditional Norms of Statehood*. Islamist Rebel Governance Workshop, Centre on Conflict, Development and Peacebuilding (CCDP), The Graduate Institute Geneva, Switzerland.
+
+
+**Lokmanoglu, A.**, Walter, D., Veilleux-Lepage, Y., & Pruden, M. `(2020)`. *Exploring the Internationalization of Far-Right Movements*. American Political Science Association, San Francisco, CA.
+
+
+**Lokmanoglu, A.**, & Veilleux-Lepage, Y. `(2020)`. *Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum*. International Studies Association, Honolulu, Hawaii (cancelled due to COVID-19 pandemic).
+
+
+**Lokmanoglu, A.** `(2020)`. *Statehood through social media? ISIS Videos on Legitimizing Statehood to the International World*. International Studies Association (ISA), Honolulu, Hawaii (cancelled due to COVID-19 pandemic).
+
+
+**Lokmanoglu, A.**, Kaczkowski, W., & Winkler, C. `(2019)`. *Definitions Matter: A Comparison of Government and Media Databases on Terrorism*. Society of Terrorism Research, Oslo, Norway.
+
+
+**Lokmanoglu, A.**, & Veilleux-Lepage, Y. `(2019)`. *Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum*. Society of Terrorism Research, Oslo, Norway.
+
+
+**Lokmanoglu, A.** `(2018)`. *Fatal Attraction: ISIS’s Media Strategy for Appealing and Recruiting Women*. VOX-Pol Violent Extremism, Terrorism, and the Internet: Present and Future Trends Conference, Amsterdam, Netherlands.
+
+
+**Lokmanoglu, A.** `(2018)`. *A textual and visual analysis of ISIS Media Channels for Women*. Middle Eastern Studies Association (MESA), San Antonio, TX.
 
 ### Invited Talks (Selected)
 
-`2022`
+**Lokmanoglu, A.** (2022, November 7). Digital Activism In the Middle East. Lecture for HIST 3535: Youth Culture in MENA, Dr. Golbarg Rekabtalaei, Seton Hall University
+
 **Lokmanoglu, A.** (2022, October 13). Conspiracies and Disinformation/Misinformation [Panel Participant]. Canadian Association for Terrorism, Security, and Society (TSAS) Gala Conference
 
-`2022`
+
 **Lokmanoglu, A.** (2022, May 13). Righteous Currencies in Extreme Ideologies: IS Coins, TrumpCoins and FREEdom Coins. Cryptocurrency and Societal Harm Symposium and Special Issue of the Journal of Online Trust and Safety, Stanford Internet Observatory, Stanford University, Stanford, CA. 
 
-`2022`
+
 **Lokmanoglu, A.** (2022), Terrorism, Misinformation and Censorship. Lecture for DIPL6130 International Security, Dr. Joseph Huddleston, School of Diplomacy and International Relations, Seton Hall University
 
-`2021`
+
 **Lokmanoglu, A.** (2021), Responsible Data Science Community of Practice [Panel Participant]. Fall Forum of Translational Data Analytics Institute (TDAI), The Ohio State University (virtual)
 
-`2021`
+
 **Lokmanoglu, A.** (2021). Women’s Changing Roles in Terrorism. Lecture for ATS1701 Terrorism and Political Violence (Undergraduate), Dr. Alexandra Phelan, School of Social Sciences, Monash University
  
 ## R & Python Tutorials
