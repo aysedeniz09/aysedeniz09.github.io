@@ -21,11 +21,7 @@
 title: Ayse Deniz Lokmanoglu
 email: ayse.lokmanoglu@northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Postdoctoral Fellow at the Center for Communication and Public Policy at 
-  Northwestern University. My research is at the intersection of data science and 
-  political communication. Specifically, my work focuses on malign digital campaigns
-  (hate speech, extremism, disinformation) and utilizing qualitative and quantitative 
-  approaches to inform real-world solutions.
+  ADL GitHub
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aysdeniz_9
