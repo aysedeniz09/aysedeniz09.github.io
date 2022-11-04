@@ -288,7 +288,7 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 
 *Statistical Software* - R Studio (advanced), Python (advanced), Gephi, MATLAB, SPSS (Data Entry & Statistical Analysis) and STATA
 
-*Languages* - 
+*Languages*<br/>
 	English (Native)   - fluent<br/>
 	Turkish (Native)   - fluent<br/>
 	Spanish 	   - basic<br/>
