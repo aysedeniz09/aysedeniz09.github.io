@@ -5,6 +5,13 @@
 layout: home
 ---
 
+
+<div class="begin-examples"></div>
+[CV](https://aysedeniz09.github.io/CV/)
+[Publications](https://aysedeniz09.github.io/Publications)
+
+<div class="end-examples"></div>
+
 I am a Postdoctoral Fellow at the Center for Communication and Public Policy at Northwestern University. My research is at the intersection of data science and political communication. Specifically, my work focuses on malign digital campaigns  (hate speech, extremism, disinformation) and utilizing qualitative and quantitative approaches to inform real-world solutions.
 
 My research agenda uses machine learning and qualitative textual and visual analysis to examine information in the digital world that is intended for harm, hate and violence. Within my work, I am very passionate about using both computational methodologies in approaching big data and qualitative analysis where I can deep-dive into the rhetoric of information campaigns.
