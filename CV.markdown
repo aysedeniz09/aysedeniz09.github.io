@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: CV
 title: "CV"
 permalink: /CV/
 ---
@@ -19,3 +19,25 @@ FEvanston, IL, 60208, USA<br/>
   <a href="https://www.researchgate.net/profile/Ayse-Lokmanoglu"><i class="ai ai-researchgate"></i> Ayse_Lokmanoglu</a> - 
   <a href="https://twitter.com/aysed_9"><i class="fab fa-twitter"></i> @aysed_9</a>
 </div>
+
+## Employment
+
+`2021- present`
+**Postdoctoral Fellow**, *Center for Communication and Public Policy Northwestern University*, Evanston, IL, USA.
+
+## Education
+
+`2017-2021`
+**Ph.D., Communication**, *Georgia State University*, Atlanta, GA, USA.
+Chair: Carol Winkler
+Committee Members: Anthony Lemieux, Dror Walter, Timothy Barouch, Dan Altman
+Dissertation: Imagined Economics: An Analysis of Non-state Actor Economic Messaging
+National Communication Association Gerald R. Miller Outstanding Doctoral Dissertation Award 
+
+`2010-2012`
+**M.A., Middle Eastern Studies**, *Harvard University*, Cambridge, MA, USA.
+Advisor: Malika Zeghal
+Thesis: The implications of the changes in elementary school religious education in Turkey between the years 1980-1989
+
+`2005-2009`
+**B.A., Economics and Near Eastern Studies**, *Cornell University*, Ithaca, NY, USA.
