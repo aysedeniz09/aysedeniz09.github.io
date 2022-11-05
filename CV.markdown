@@ -65,7 +65,7 @@ Thesis: The implications of the changes in elementary school religious education
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=CD335AwAAAAJ&hl=en). \* 
+*Publication list also available [in Google Scholar](https://scholar.google.com/citations?user=CD335AwAAAAJ&hl=en)* 
 
 ### Peer-Reviewed Journal Articles
 
@@ -330,11 +330,12 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 - Volunteer, Mersin City Council Refugee Initiative, assistance including sanitary housing, refugee vaccination formulating educational plans for K-5, and fundraising (2012 – present).  
 - Global Relations Forum (GIFGRF), Istanbul Turkey, GRF Young Professionals Program (2013-2014)
 - Admission Ambassador, Cornell University, Istanbul, Turkey (2009-present), Atlanta, GA, USA (2017-2021) & Chicago, IL, USA (2021-present)
+
 ### Certificates
 - Mental Health First Aid (MHFA) USA, 2022-2025
 - Longitudinal Data Analysis Using R, Instructor: Stephen Vaisey, Statistical Horizon, November 2021
 - Longitudinal Data Analysis Using SEM, Instructor: Paul Allison, Statistical Horizon, October 2021
 
-***References will be provided upon request***
+### References will be provided upon request
 
 <br/>Last updated: November 2022<br/><br/>
