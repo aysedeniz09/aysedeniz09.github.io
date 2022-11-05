@@ -8,7 +8,7 @@ permalink: /CV/
 
 Frances Searle Building <br/>
 2240 Campus Drive Room 1175 <br/>
-FEvanston, IL, 60208, USA<br/>
+Evanston, IL, 60208, USA<br/>
 
 <a href="ayse.lokmanoglu@northwestern.edu">ayse.lokmanoglu@northwestern.edu</a> - +1-‪(224) 534-9617‬‬
 
