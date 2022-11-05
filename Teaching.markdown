@@ -50,4 +50,4 @@ permalink: /Teaching/
 “everything”</br>
 “Highly organized, direct, open”</br>
 “Knowledgeable”</br>
-“random cool facts and enthusiasm”</br>
+“random cool facts and enthusiasm”</br> 
