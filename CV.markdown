@@ -65,7 +65,7 @@ Thesis: The implications of the changes in elementary school religious education
 **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
 
 
-Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** (accepted). Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
+Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** (accepted). Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [DOI](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/gendered-radicalisation-and-everyday-practices-an-analysis-of-extreme-right-and-islamic-state-womenonly-forums/1C4E05907976274941A7CD240E62DC3F) [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
 
 
 Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. `(2022)`. Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. *Information, Communication & Society*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
@@ -265,6 +265,8 @@ News Article Scraper [GitHub](https://github.com/nwccpp/covid_news/blob/main/nw_
 ## Teaching
 
 ### Instructor
+*Northwestern University*<br/>
+Social Media Listening (Graduate Course), Summer 2023
 
 *IMSISS Erasmus Mundus Joint Master’s Degree in Security and Intelligence*<br/>
 Social Media Analytics (Graduate Course), Spring 2023
