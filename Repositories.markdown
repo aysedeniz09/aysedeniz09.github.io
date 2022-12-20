@@ -8,8 +8,10 @@ permalink: /Repositories/
 #### Arabic & English 
 - [Dissertation](https://github.com/aysedeniz09/dissertation)
 - [Supplementary Code for: Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes](https://github.com/aysedeniz09/ThematicClusters/blob/main/An_github_tm_clusters.md)
-#### [Russian](https://github.com/nwccpp/russia_foreignvaccine_paper)
-#### [Spanish and English](https://github.com/nwccpp/peru-sarf)
+#### Russian
+- [Russian News Articles](https://github.com/nwccpp/russia_foreignvaccine_paper)
+#### Spanish and English
+- [Peru Twitter](https://github.com/nwccpp/peru-sarf)
  
 ### BERTopic
 #### [BERTopic Outlier Iteration & Classifier](https://github.com/nwccpp/bertopicclassifier)
