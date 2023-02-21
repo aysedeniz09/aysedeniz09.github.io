@@ -117,9 +117,9 @@ Winkler, C., & **Lokmanoglu, A.** `(2019)`. Communicating Terrorism and Countert
 
 ### Peer-Reviewed Journal Articles under Review 
 
-**Lokmanoglu, A.**, Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., Abhari, R. (under review). Social Media Amplification of Risk about COVID-19 Vaccination and Vaccine Acceptance Among Peruvian Social Media Users: A Longitudinal Time Series Analysis. *Telematics and Informatics Reports*
+**Lokmanoglu, A.**, Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., Abhari, R. (under review). Social Media Amplification of Risk about COVID-19 Vaccination and Vaccine Acceptance Among Peruvian Social Media Users: A Longitudinal Time Series Analysis. 
 
-**Lokmanoglu, A.** (under review) Righteous Currencies and Supremacy: The story of coins in Christian Nationalism and Salafi-Jihadism. *New Media & Society*
+**Lokmanoglu, A.** (under review) Righteous Currencies and Supremacy: The story of coins in Christian Nationalism and Salafi-Jihadism. 
 
 ### Book Manuscripts in Progress
 
