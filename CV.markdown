@@ -93,7 +93,7 @@ Ophir, Y., Walter, D., Arnon, D., **Lokmanoglu, A.**, Tizzoni, M., Carota, J., D
 Bloom, M., & **Lokmanoglu, A.** `(2020)`. From Pawn to Knights: The Changing Role of Women’s Agency in Terrorism? *Studies in Conflict & Terrorism*, 1–16. [DOI](https://doi.org/10.1080/1057610X.2020.1759263)
 
 
-Kaczkowski, W., Lokmanoglu, A., & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
+Kaczkowski, W., **Lokmanoglu, A.**, & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
 
 ### Book Chapters 
 
