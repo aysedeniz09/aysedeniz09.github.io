@@ -65,7 +65,7 @@ Thesis: The implications of the changes in elementary school religious education
 **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
 
 
-Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** (accepted). Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [DOI](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/gendered-radicalisation-and-everyday-practices-an-analysis-of-extreme-right-and-islamic-state-womenonly-forums/1C4E05907976274941A7CD240E62DC3F) [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
+Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** `(2022)`. Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [DOI](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/gendered-radicalisation-and-everyday-practices-an-analysis-of-extreme-right-and-islamic-state-womenonly-forums/1C4E05907976274941A7CD240E62DC3F) [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
 
 
 Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. `(2022)`. Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. *Information, Communication & Society*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
@@ -101,7 +101,7 @@ Kaczkowski, W., Lokmanoglu, A., & Winkler, C. `(2019)`. Definitions matter: A co
 **Lokmanoglu, A.** (forthcoming, `2023`). Performative State building in the Digital World – ISIS and Monetary Economics. In C. Voyvodic & N. Stremlau (Eds.), *Technology and Governance: Exploring Law and Innovation in the Absence of State Governance*. Routledge.
 
 
-**Lokmanoglu, A.**, & Phelan, A. (forthcoming, `2022`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
+**Lokmanoglu, A.**, & Phelan, A. (forthcoming, `2023`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
 
 
 Pruden, M., **Lokmanoglu, A.**, Peterscheck, A., & Veilleux-Lepage, Y. `(2022)`. Birds of a feather: A comparative analysis of white supremacist and violent male supremacist discourses. In B. Perry, J. Gruenwald, & R. Scrivens (Eds.), *Far-right Extremism in North America*. Palgrave.
@@ -127,13 +127,14 @@ Winkler, C., & **Lokmanoglu, A.** `(2019)`. Communicating Terrorism and Countert
 
 ### Book Review and Bibliographies 
 
-
 Teiner, D., Furlan, M., **Lokmanoglu, A.**, & McDonald, B. `(2021)`. Bibliography: Rebel Governance. *Perspectives on Terrorism*, 15(5), 145–165. [Link](https://www.jstor.org/stable/27073447)
 
 
 **Lokmanoglu, A.** `(2021)`. Targeting top terrorists: Understanding leadership removal in counterterrorism strategy: by Bryan C Price, New York, Columbia University Press, 2019, 288 pp., $32 (paperback), ISBN 978-0-231-18823-4. *South African Journal of International Affairs*, 1–2. [DOI](https://doi.org/10.1080/10220461.2021.1919195) 
 
 ### Policy Articles (Selected)
+
+Phelan, A., **Lokmanoglu, A.**, Veilleux-Lepage, Y (2022, November 26). Online Platforms as Gendered Sites: Why We Should Pay Attention to Women-Only Forums. *Global Network on Extremism & Terrorism (GNET)*. [Link](https://gnet-research.org/2022/11/26/online-platforms-as-gendered-sites-why-we-should-pay-attention-to-women-only-forums/)
 
 Ophir, Y., Pruden, M. L., Walter, D., & **Lokmanoglu, A.** (2022, July 20). White Nationalism, Stormfront, and the Extremist Politicisation of Science. *Global Network on Extremism & Terrorism (GNET)*. [Link](https://gnet-research.org/2022/07/20/white-nationalism-stormfront-and-the-extremist-politicisation-of-science/)
 
@@ -147,44 +148,29 @@ Allison, B. V., & **Lokmanoglu, A.** (2020, July 13). Why CHAZ/CHOP Failed. *Ink
 
 ### Conference Presentations
 
-
 **Lokmanoglu, A.** `(2022)`. *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Critical and Cultural Studies Division, National Communication Association (NCA), New Orleans, LA. 
-
 
 **Lokmanoglu, A.**, Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R. `(2022)`. Social Media Amplification of Risk about COVID-19 Vaccination and Vaccine Acceptance Among Peruvian Social Media Users: A Longitudinal Time Series Analysis. Mass Communication Division, National Communication Association (NCA), New Orleans, LA. 
 
-
-
 Nisbet, E., **Lokmanoglu, A.**, Kamenchuk, O., Abhari, R. M., Villa Turek, E., Mortenson, C. R., Suresh, S., & Jenkin, S. `(2022)`. *How foreign propaganda claims penetrates American domestic partisan news: The case of Ukraine*. International and Intercultural Communication Division, National Communication Association (NCA), New Orleans, LA. 
-
 
 Saucier, C., Nisbet, E., **Lokmanoglu, A.**, Bond, R., Dixon, G., Garrett, R. K., Hovick, S. H., Na. K., & Wegener, D., `(2022)`. *Of Two Minds? How Consistency and Belonging Bias the Need for Evidence about COVID-19*. Political Communication Division, National Communication Association (NCA), New Orleans, LA. 
 
-
 **Lokmanoglu, A.** `(2022)`. *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Broadening Our Approach: A Workshop on Comparative Political Communication, Duke University, Durham, NC.
-
 
 **Lokmanoglu, A.** `(2022)` *Two and a Half Years Into the Pandemic: Extremist Decision-making and Communication During COVID-19* [Roundtable Participant]. International Studies Association, Nashville, TN.
 
-
 **Lokmanoglu, A.**, Winkler, C., Almahmoud, M. `(2022)`. *Merging Rhetorical Studies and Big Data to Better Understand Rhetorical Acts of Violence in ISIS Publications*. International Studies Association, Nashville, TN.
-
-
 
 McMinimy, K., **Lokmanoglu, A.** `(2022)`. *Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS*. International Studies Association, Nashville, TN.
 
-
 **Lokmanoglu, A.** `(2021)`. *Performative Statehood in the Virtual World: The Family*. Middle Eastern Studies Association (MESA), online. 
-
 
 Veilleux-Lepage, Y., **Lokmanoglu, A.**, Phelan, A. `(2021)`. *Analysis of the Extreme Right and Islamic State Women’s Only Forum*. Counterterrorism in a Global Perspective Virtual Workshop funded by Institute of Security and Global Affairs (ISGA), Leiden University and The Hague University of Applied Sciences (THUAS).
 
-
 Pruden, M., **Lokmanoglu, A.**, Petershcek, A., & Veilleux-LePage, Y. `(2021)` *Birds of a Feather: A Comparative Analysis of White Supremacist and Violent Male Supremacist Discourses*. Top Papers in Peace and Conflict Communication in National Communication Association, Seattle, WA. 
 
-
 **Lokmanoglu, A.**, Walter, D., Pruden, M., Veilleux-Lepage, Y., & Goodwin, C. `(2021)`. *Ideologize Globally, Mobilize Locally: The Internationalization of Far-Right Online Discourse*. International Communications Associations (ICA), online.
-
 
 **Lokmanoglu, A.** `(2021)`. *Monetary Economics as State Building – Non-State Actors Challenging International Financial Systems*. International Studies Association, online.
 
