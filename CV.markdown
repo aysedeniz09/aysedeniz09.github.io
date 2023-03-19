@@ -302,6 +302,10 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 - Reviewer, Perspectives of Terrorism
 - Reviewer, Journal of Peace Research
 - Reviewer, New Media & Society
+- Reviewer, European Journal of International Security
+- Reviewer, Humanities and Social Sciences Communications
+- Reviewer, Public Health
+- Reviewer, Journal of Medical Internet Research
 
 ### Special Issue 
 - Co-editor, Special Issue in The (International) Politics of Content Takedowns: Theory, Practice, Ethics, Policy & Internet (forthcoming September 2023)
