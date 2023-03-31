@@ -130,6 +130,11 @@ Thesis: The implications of the changes in elementary school religious education
 
 *Challenging Economic Communication: Economic Messaging of Non-State Actors*, Book Proposal and Draft Manuscript
 
+### Reports
+
+**Lokmanoglu, Ayse D.**, Mowafak Allaham, Rod Abhari, Chloe Mortenson, and Esteban Villa‑Turek. “A Picture Is Worth a Thousand (S)Words: Classification and Diffusion of Memes on a Partisan Media Platform.” London: Global Network on Extremism and Technology (GNET), March 2023. [DOI](https://gnet-research.org/wp-content/uploads/2023/03/GNET-33-Meme-Classification-on-Partisan-Platform_web.pdf)
+
+
 ### Book Review and Bibliographies 
 
 Teiner, D., Furlan, M., **Lokmanoglu, A.**, & McDonald, B. `(2021)`. Bibliography: Rebel Governance. *Perspectives on Terrorism*, 15(5), 145–165. [Link](https://www.jstor.org/stable/27073447)
@@ -211,6 +216,10 @@ Pruden, M., **Lokmanoglu, A.**, Petershcek, A., & Veilleux-LePage, Y. `(2021)` *
 
 ### Invited Talks (Selected)
 
+**Lokmanoglu, A.** (2023, March 31). Introduction to Mixed Methodologies for Researching Extremism and Adversarial Disinformation [Speaker]. Online Extremism and Misinformation Conference hosted by the Senator George J. Mitchell Institute for Global Peace, Security and Justice at Queen’s University Belfast
+
+**Lokmanoglu, A.** (2023, February 21).  Doing Text Analysis on Scraped Data: Disinformation and Violent Extremism [Lecture]. Erasmus Mundus International Masters in Security, Intelligence and Strategic Studies (IMSISS)
+
 **Lokmanoglu, A.** (2022, November 7). Digital Activism In the Middle East. Lecture for HIST 3535: Youth Culture in MENA, Dr. Golbarg Rekabtalaei, Seton Hall University
 
 **Lokmanoglu, A.** (2022, October 13). Conspiracies and Disinformation/Misinformation [Panel Participant]. Canadian Association for Terrorism, Security, and Society (TSAS) Gala Conference
@@ -256,12 +265,10 @@ News Article Scraper [GitHub](https://github.com/nwccpp/covid_news/blob/main/nw_
 ## Teaching
 
 ### Instructor
+
 *Northwestern University*<br/>
 Social Media Listening (Graduate Course), Summer 2023
 
-*IMSISS Erasmus Mundus Joint Master’s Degree in Security and Intelligence*<br/>
-Social Media Analytics (Graduate Course), Spring 2023
-		
 *2nd SocialComQuant Summer School on Computational Social Science*<br/>
 Methods for analyzing and modeling textual data (Graduate Course), Summer 2022 
 
