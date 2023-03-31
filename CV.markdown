@@ -68,58 +68,57 @@ Thesis: The implications of the changes in elementary school religious education
 ### Peer-Reviewed Journal Articles
 
 
- 11. **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
+1. **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
 
 
- 10. Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** `(2022)`. Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [DOI](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/gendered-radicalisation-and-everyday-practices-an-analysis-of-extreme-right-and-islamic-state-womenonly-forums/1C4E05907976274941A7CD240E62DC3F) [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
+2. Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** `(2022)`. Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [DOI](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/gendered-radicalisation-and-everyday-practices-an-analysis-of-extreme-right-and-islamic-state-womenonly-forums/1C4E05907976274941A7CD240E62DC3F) [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
 
 
- 9. Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. `(2022)`. Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. *Information, Communication & Society*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
+3. Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. `(2022)`. Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. *Information, Communication & Society*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
 
 
- 8. Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. `(2022)`. Vaccine discourse in white nationalist online communication: A mixed-methods computational approach. *Social Science & Medicine*, 298, Article 114859. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654)
+4. Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. `(2022)`. Vaccine discourse in white nationalist online communication: A mixed-methods computational approach. *Social Science & Medicine*, 298, Article 114859. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654)
 
 
-
- 7. Ophir, Y., Walter, N., Walter, D., Velho, R. M., **Lokmanoglu, A. D.**, Pruden, M. L., & Andrews, E. A. `(2022)`. Vaccine Hesitancy Under the Magnifying Glass: A Systematic Review of the Uses and Misuses of an Increasingly Popular Construct. *Health Communication*, 1–15. [DOI](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2054102)
-
-
- 6. **Lokmanoglu, A. D.**, Winkler, C. K., McMinimy, K., & Almahmoud, M. `(2022)`. ISIS Media and Troop Withdrawal Announcements: Visualizing Community and Resilience. *International Journal of Communication*, 16, 215–246. [DOI](https://ijoc.org/index.php/ijoc/article/view/18055)
+5. Ophir, Y., Walter, N., Walter, D., Velho, R. M., **Lokmanoglu, A. D.**, Pruden, M. L., & Andrews, E. A. `(2022)`. Vaccine Hesitancy Under the Magnifying Glass: A Systematic Review of the Uses and Misuses of an Increasingly Popular Construct. *Health Communication*, 1–15. [DOI](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2054102)
 
 
- 5. McMinimy, K., Winkler, C. K., **Lokmanoglu, A. D.**, & Almahmoud, M. `(2021)`. Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS. *Terrorism and Political Violence*, 1–17. [DOI](https://doi.org/10.1080/09546553.2021.1988938)
+6. **Lokmanoglu, A. D.**, Winkler, C. K., McMinimy, K., & Almahmoud, M. `(2022)`. ISIS Media and Troop Withdrawal Announcements: Visualizing Community and Resilience. *International Journal of Communication*, 16, 215–246. [DOI](https://ijoc.org/index.php/ijoc/article/view/18055)
 
 
- 4. Ophir, Y., Walter, D., Arnon, D., **Lokmanoglu, A.**, Tizzoni, M., Carota, J., D’Antiga, L., & Nicastro, E. `(2021)`. The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach. *Journal of Health Communication*, 26(3), 161–173. [DOI](https://doi.org/10.1080/10810730.2021.1899344) 
+7. McMinimy, K., Winkler, C. K., **Lokmanoglu, A. D.**, & Almahmoud, M. `(2021)`. Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS. *Terrorism and Political Violence*, 1–17. [DOI](https://doi.org/10.1080/09546553.2021.1988938)
 
 
- 3. **Lokmanoglu, A.** `(2020)`. Coin as Imagined Sovereignty: A Rhetorical Analysis of Coins as a Transhistorical Artifact and an Ideograph in Islamic State’s Communication. *Studies in Conflict & Terrorism, 44(1), 1–22*. [DOI](https://doi.org/10.1080/1057610X.2020.1793458)
+8. Ophir, Y., Walter, D., Arnon, D., **Lokmanoglu, A.**, Tizzoni, M., Carota, J., D’Antiga, L., & Nicastro, E. `(2021)`. The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach. *Journal of Health Communication*, 26(3), 161–173. [DOI](https://doi.org/10.1080/10810730.2021.1899344) 
 
 
- 2. Bloom, M., & **Lokmanoglu, A.** `(2020)`. From Pawn to Knights: The Changing Role of Women’s Agency in Terrorism? *Studies in Conflict & Terrorism*, 1–16. [DOI](https://doi.org/10.1080/1057610X.2020.1759263)
+9. **Lokmanoglu, A.** `(2020)`. Coin as Imagined Sovereignty: A Rhetorical Analysis of Coins as a Transhistorical Artifact and an Ideograph in Islamic State’s Communication. *Studies in Conflict & Terrorism, 44(1), 1–22*. [DOI](https://doi.org/10.1080/1057610X.2020.1793458)
 
 
- 1. Kaczkowski, W., **Lokmanoglu, A.**, & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
+10. Bloom, M., & **Lokmanoglu, A.** `(2020)`. From Pawn to Knights: The Changing Role of Women’s Agency in Terrorism? *Studies in Conflict & Terrorism*, 1–16. [DOI](https://doi.org/10.1080/1057610X.2020.1759263)
+
+
+11. Kaczkowski, W., **Lokmanoglu, A.**, & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
 
 ### Book Chapters 
 
 
- 6. **Lokmanoglu, A.** (forthcoming, `2023`). Performative State building in the Digital World – ISIS and Monetary Economics. In C. Voyvodic & N. Stremlau (Eds.), *Technology and Governance: Exploring Law and Innovation in the Absence of State Governance*. Routledge.
+1. **Lokmanoglu, A.** (forthcoming, `2023`). Performative State building in the Digital World – ISIS and Monetary Economics. In C. Voyvodic & N. Stremlau (Eds.), *Technology and Governance: Exploring Law and Innovation in the Absence of State Governance*. Routledge.
 
 
- 5. **Lokmanoglu, A.**, & Phelan, A. (forthcoming, `2023`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
+2. **Lokmanoglu, A.**, & Phelan, A. (forthcoming, `2023`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
 
 
- 4. Pruden, M., **Lokmanoglu, A.**, Peterscheck, A., & Veilleux-Lepage, Y. `(2022)`. Birds of a feather: A comparative analysis of white supremacist and violent male supremacist discourses. In B. Perry, J. Gruenwald, & R. Scrivens (Eds.), *Far-right Extremism in North America*. Palgrave.
+3. Pruden, M., **Lokmanoglu, A.**, Peterscheck, A., & Veilleux-Lepage, Y. `(2022)`. Birds of a feather: A comparative analysis of white supremacist and violent male supremacist discourses. In B. Perry, J. Gruenwald, & R. Scrivens (Eds.), *Far-right Extremism in North America*. Palgrave.
 
 
- 3. **Lokmanoglu, A.**, & Veilleux-Lepage, Y. `(2020)`. Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum. In D. M. D. Silva & M. Deflem (Eds.), *Radicalization and Counter-Radicalization* (Vol. 25). Emerald Publishing Limited.
+4. **Lokmanoglu, A.**, & Veilleux-Lepage, Y. `(2020)`. Hatred, She Wrote: An Analysis of the Extreme Right and Islamic State Women’s Only Forum. In D. M. D. Silva & M. Deflem (Eds.), *Radicalization and Counter-Radicalization* (Vol. 25). Emerald Publishing Limited.
 
 
- 2. Bloom, M., & **Lokmanoglu, A.** `(2020)`. Conducting Field Work in a Virtual Space, Exploring ISIS’ Encrypted Messaging on Telegram. In P. Krause & O. Szekely (Eds.), *Stories from the Field A Guide to Navigating Fieldwork in Political Science*. Columbia University Press.
+5. Bloom, M., & **Lokmanoglu, A.** `(2020)`. Conducting Field Work in a Virtual Space, Exploring ISIS’ Encrypted Messaging on Telegram. In P. Krause & O. Szekely (Eds.), *Stories from the Field A Guide to Navigating Fieldwork in Political Science*. Columbia University Press.
 
 
- 1. Winkler, C., & **Lokmanoglu, A.** `(2019)`. Communicating Terrorism and Counterterrorism. In B. C. Taylor & H. Bean (Eds.), *The Handbook of Communication and Security* (First edition, pp. 381–398). Routledge.
+6. Winkler, C., & **Lokmanoglu, A.** `(2019)`. Communicating Terrorism and Counterterrorism. In B. C. Taylor & H. Bean (Eds.), *The Handbook of Communication and Security* (First edition, pp. 381–398). Routledge.
 
 ### Peer-Reviewed Journal Articles under Review 
 
