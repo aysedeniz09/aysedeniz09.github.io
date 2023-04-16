@@ -67,7 +67,7 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Peer-Reviewed Journal Articles
 
-1. **Lokmanoglu, A.**, Erik C Nisbet, Matthew T Osborne, Joseph Tien, Sam Malloy, Lourdes Cueva Chacón, Esteban Villa Turek, Rod Abhari. `(2023)`. Social Media Sentiment about COVID -19 Vaccination Predicts Vaccine Acceptance Among Peruvian Social Media Users the Next Day. *Vaccines*. [DOI] [Code](https://github.com/nwccpp/peru-sarf)
+1. **Lokmanoglu, A.**, Erik C Nisbet, Matthew T Osborne, Joseph Tien, Sam Malloy, Lourdes Cueva Chacón, Esteban Villa Turek, Rod Abhari. `(2023)`. Social Media Sentiment about COVID -19 Vaccination Predicts Vaccine Acceptance Among Peruvian Social Media Users the Next Day. *Vaccines*. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
 
 2. **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
 
@@ -103,10 +103,12 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Book Chapters 
 
-1. **Lokmanoglu, A.** (forthcoming, `2023`). Performative State building in the Digital World – ISIS and Monetary Economics. In C. Voyvodic & N. Stremlau (Eds.), *Technology and Governance: Exploring Law and Innovation in the Absence of State Governance*. Routledge.
+1. Mustaffa, M., & **Lokmanoglu, A. D.** (forthcoming, `2024`). Networks Approach: Trolls and Bots in Malaysia. In S. L. Connaughton & S. Pukallus (Eds.), *Routledge Handbook of Conflict and Peacebuilding*. Routledge/Taylor & Francis Group.
+
+1. **Lokmanoglu, A.** (forthcoming, `2024`). Performative State building in the Digital World – ISIS and Monetary Economics. In C. Voyvodic & N. Stremlau (Eds.), *Technology and Governance: Exploring Law and Innovation in the Absence of State Governance*. Routledge/Taylor & Francis Group.
 
 
-2. **Lokmanoglu, A.**, & Phelan, A. (forthcoming, `2023`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
+2. **Lokmanoglu, A.**, & Phelan, A. (forthcoming, `2024`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
 
 
 3. Pruden, M., **Lokmanoglu, A.**, Peterscheck, A., & Veilleux-Lepage, Y. `(2022)`. Birds of a feather: A comparative analysis of white supremacist and violent male supremacist discourses. In B. Perry, J. Gruenwald, & R. Scrivens (Eds.), *Far-right Extremism in North America*. Palgrave.
@@ -127,11 +129,13 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Book Manuscripts in Progress
 
+Conroy, M., Pruden, M. L., Stiverson, H., & **Lokmanoglu, A. D.** (Eds.). (2024). *Banal Fascism Online: Weaponizing the “Everyday” for Extreme Ends*. Routledge/Taylor & Francis Group.
+
 *Challenging Economic Communication: Economic Messaging of Non-State Actors*, Book Proposal and Draft Manuscript
 
 ### Reports
 
-**Lokmanoglu, Ayse D.**, Mowafak Allaham, Rod Abhari, Chloe Mortenson, and Esteban Villa‑Turek. “A Picture Is Worth a Thousand (S)Words: Classification and Diffusion of Memes on a Partisan Media Platform.” London: Global Network on Extremism and Technology (GNET), March 2023. [DOI](https://gnet-research.org/wp-content/uploads/2023/03/GNET-33-Meme-Classification-on-Partisan-Platform_web.pdf)
+**Lokmanoglu, Ayse D.**, Mowafak Allaham, Rod Abhari, Chloe Mortenson, and Esteban Villa‑Turek. “A Picture Is Worth a Thousand (S)Words: Classification and Diffusion of Memes on a Partisan Media Platform.” London: Global Network on Extremism and Technology (GNET), March 2023. [DOI](https://gnet-research.org/wp-content/uploads/2023/03/GNET-33-Meme-Classification-on-Partisan-Platform_web.pdf)[Code](https://github.com/nwccpp/meme-project)
 
 
 ### Book Review and Bibliographies 
@@ -156,6 +160,13 @@ Criezis, M., & **Lokmanoglu, A.** (2020, November 13). Baghdadi Fan Mail. *Globa
 Allison, B. V., & **Lokmanoglu, A.** (2020, July 13). Why CHAZ/CHOP Failed. *Inkstick*. [Link](https://inkstickmedia.com/why-chaz-chop-failed/)
 
 ### Conference Presentations
+
+
+Billard, T. J., Pruden, M. L., Jereza, R., **Lokmanoglu, A. D.**, Alimardani, M., & Narayanamoorthy, N. (2023, May 28). BLUE SKY BIG IDEAS WORKSHOP: *Burn After Reading: Research-Related Trauma, Symbolic Violence, and the Need for Structural Solutions*. International Communication Association (ICA), Toronto, Canada.
+
+**Lokmanoglu, A. D.** (2023, September 31). *Righteous Currency & Supremacy: Coins in Christian Nationalism & Salafi-Jihadism*. American Political Science Association (APSA), Los Angeles, CA. 
+
+**Lokmanoglu, A. D.** (2023, March 18). *Righteous Currencies: An Examination of Economic Messaging in Alt-Tech Platforms*. Public Choice Society, Seattle, WA. 
 
 **Lokmanoglu, A.** `(2022)`. *Constituting the Imagined Caliphate: Rhetorical and Computational Approaches to Explicating Non-State Actor Economic Messaging*. Critical and Cultural Studies Division, National Communication Association (NCA), New Orleans, LA. 
 
@@ -333,4 +344,4 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 
 ### References will be provided upon request
 
-<br/>Last updated: November 2022<br/><br/>
+<br/>Last updated: April 2023 <br/><br/>
