@@ -17,3 +17,4 @@ You can reach me at aysedlokmanoglu [at] gmail [dot] com or ayse.lokmanoglu [at]
 
 Additional Information: Ayşe is pronounced eye-shea
 
+<i class="ai ai-google-scholar"></i>
