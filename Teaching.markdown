@@ -5,11 +5,19 @@ permalink: /Teaching/
 ---
 ## Instructor
 
-*IMSISS Erasmus Mundus Joint Master’s Degree in Security and Intelligence*</br> Social Media Analytics (Graduate Course),</br> Spring 2023
+*Northwestern University* 
 
-*2nd SocialComQuant Summer School on Computational Social Science*</br> Methods for analyzing and modeling textual data (Graduate Course),</br> Summer 2022
+Social Media Listening (Graduate Course), Master of Science in Communication, Summer 2023	
 
-*Georgia State University*</br> Media, Culture and Society (Undergraduate Course),</br> Spring 2020
+*IMSISS Erasmus Mundus Joint Master’s Degree in Security and Intelligence* 
+
+Social Media Analytics (Graduate Course), Spring 2023
+
+*2nd SocialComQuant Summer School on Computational Social Science* 
+Methods for analyzing and modeling textual data (Graduate Course), Summer 2022
+
+*Georgia State University*</br> Media, Culture and Society (Undergraduate Course),
+Spring 2020
 
 ## Guest Lectures
 
@@ -31,23 +39,43 @@ permalink: /Teaching/
 
 
 ## Selected comments from teaching evaluations:
-“You can tell she loved her subject”</br>
-“Patience”</br>
-“Engagement from start to finish, she controlled: the classroom with precision.”</br>
-“I appreciated how she seems care about everyone's questions in that she didn't make a lesson boring”</br>
-“How calm she is”</br>
-“She was very interested in our opinions and like sharing hers as well. Some could get to know everyone a little more than just the surface level”</br>
-“very nice and self-caring. all she wants from us is too succeed and i liked that tried her best to make sure everybody understands.”</br>
-“engaging, sincere, created curiosity for the subject”</br>
-“She works with you”</br>
-“she treated us as equal and very fair”</br>
-“Thorough, helpful”</br>
-“Clear information”</br>
-“Preparation, Polished & presentation with perfection!”</br>
-“she's tries to get everyone involved”</br>
-“Interpersonal teaching”</br>
-“good listener”</br>
-“everything”</br>
-“Highly organized, direct, open”</br>
-“Knowledgeable”</br>
-“random cool facts and enthusiasm”</br> 
+“You can tell she loved her subject”
+
+“Patience”
+
+“Engagement from start to finish, she controlled: the classroom with precision.”
+
+“I appreciated how she seems care about everyone's questions in that she didn't make a lesson boring”
+
+“How calm she is”
+
+“She was very interested in our opinions and like sharing hers as well. Some could get to know everyone a little more than just the surface level”
+
+“very nice and self-caring. all she wants from us is too succeed and i liked that tried her best to make sure everybody understands.”
+
+“engaging, sincere, created curiosity for the subject”
+
+“She works with you”
+
+“she treated us as equal and very fair”
+
+“Thorough, helpful”
+
+“Clear information”
+
+“Preparation, Polished & presentation with perfection!”
+
+“she's tries to get everyone involved”
+
+“Interpersonal teaching”
+
+“good listener”
+
+“everything”
+
+“Highly organized, direct, open”
+
+“Knowledgeable”
+
+“random cool facts and enthusiasm”
+
