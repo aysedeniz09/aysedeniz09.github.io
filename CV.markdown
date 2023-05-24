@@ -124,8 +124,6 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Peer-Reviewed Journal Articles under Review 
 
-**Lokmanoglu, A.**, Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., Abhari, R. (under review). Social Media Amplification of Risk about COVID-19 Vaccination and Vaccine Acceptance Among Peruvian Social Media Users: A Longitudinal Time Series Analysis. 
-
 
 ### Book Manuscripts in Progress
 
