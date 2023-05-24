@@ -108,7 +108,7 @@ Thesis: The implications of the changes in elementary school religious education
 1. **Lokmanoglu, A.** (forthcoming, `2024`). Performative State building in the Digital World – ISIS and Monetary Economics. In C. Voyvodic & N. Stremlau (Eds.), *Technology and Governance: Exploring Law and Innovation in the Absence of State Governance*. Routledge/Taylor & Francis Group.
 
 
-2. **Lokmanoglu, A.**, & Phelan, A. (forthcoming, `2024`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *Islamist approaches to governance*. Hurst Publishers & Oxford University Press.
+2. **Lokmanoglu, A.**, & Phelan, A. (`2023`). Monetary Economics, Illicit Economies and Legitimation: The Case of ISIS. In S. Maher & J. Cook (Eds.), *The Rule is for None but Allah: Islamist Approaches to Governance*. Hurst Publishers & Oxford University Press. [Link](https://www.hurstpublishers.com/book/the-rule-is-for-none-but-allah/)
 
 
 3. Pruden, M., **Lokmanoglu, A.**, Peterscheck, A., & Veilleux-Lepage, Y. `(2022)`. Birds of a feather: A comparative analysis of white supremacist and violent male supremacist discourses. In B. Perry, J. Gruenwald, & R. Scrivens (Eds.), *Far-right Extremism in North America*. Palgrave.
