@@ -67,7 +67,7 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Peer-Reviewed Journal Articles
 
-1. Fumeng Yang, Mandi Cai, Chloe Rose Mortenson, Hoda Fakhari, **Ayse Deniz Lokmanoglu**, Jessica Hullman, Steven Franconeri, Nicholas Diakopoulos, Erik Nisbet, & Matthew Kay. (2023, October 22). *Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms*. IEEE VIS, Melbourne, Australia.
+1. Fumeng Yang, Mandi Cai, Chloe Rose Mortenson, Hoda Fakhari, **Ayse Deniz Lokmanoglu**, Jessica Hullman, Steven Franconeri, Nicholas Diakopoulos, Erik Nisbet, & Matthew Kay. `(2023)`. *Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms*. IEEE VIS, Melbourne, Australia.
 
 2. **Lokmanoglu, A.**, Erik C Nisbet, Matthew T Osborne, Joseph Tien, Sam Malloy, Lourdes Cueva Chacón, Esteban Villa Turek, Rod Abhari. `(2023)`. Social Media Sentiment about COVID -19 Vaccination Predicts Vaccine Acceptance Among Peruvian Social Media Users the Next Day. *Vaccines*. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
 
