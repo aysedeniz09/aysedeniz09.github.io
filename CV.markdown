@@ -67,39 +67,41 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Peer-Reviewed Journal Articles
 
-1. **Lokmanoglu, A.**, Erik C Nisbet, Matthew T Osborne, Joseph Tien, Sam Malloy, Lourdes Cueva Chacón, Esteban Villa Turek, Rod Abhari. `(2023)`. Social Media Sentiment about COVID -19 Vaccination Predicts Vaccine Acceptance Among Peruvian Social Media Users the Next Day. *Vaccines*. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
+1. Fumeng Yang, Mandi Cai, Chloe Rose Mortenson, Hoda Fakhari, **Ayse Deniz Lokmanoglu**, Jessica Hullman, Steven Franconeri, Nicholas Diakopoulos, Erik Nisbet, & Matthew Kay. (2023, October 22). *Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms*. IEEE VIS, Melbourne, Australia.
 
-2. **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
+2. **Lokmanoglu, A.**, Erik C Nisbet, Matthew T Osborne, Joseph Tien, Sam Malloy, Lourdes Cueva Chacón, Esteban Villa Turek, Rod Abhari. `(2023)`. Social Media Sentiment about COVID -19 Vaccination Predicts Vaccine Acceptance Among Peruvian Social Media Users the Next Day. *Vaccines*. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
 
-
-3. Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** `(2022)`. Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [DOI](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/gendered-radicalisation-and-everyday-practices-an-analysis-of-extreme-right-and-islamic-state-womenonly-forums/1C4E05907976274941A7CD240E62DC3F) [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
-
-
-4. Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. `(2022)`. Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. *Information, Communication & Society*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
+3. **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
 
 
-5. Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. `(2022)`. Vaccine discourse in white nationalist online communication: A mixed-methods computational approach. *Social Science & Medicine*, 298, Article 114859. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654)
+4. Veilleux-Lepage, Y., Phelan, A., **Lokmanoglu, A.D.** `(2022)`. Gendered Radicalisation and “Everyday Practices”: An Analysis of Extreme Right and Islamic State Women-Only Forums. *European Journal of International Security*. [DOI](https://www.cambridge.org/core/journals/european-journal-of-international-security/article/gendered-radicalisation-and-everyday-practices-an-analysis-of-extreme-right-and-islamic-state-womenonly-forums/1C4E05907976274941A7CD240E62DC3F) [Code](https://github.com/aysedeniz09/Gendered-Radicalisation-and-Everyday-Practices)
 
 
-6. Ophir, Y., Walter, N., Walter, D., Velho, R. M., **Lokmanoglu, A. D.**, Pruden, M. L., & Andrews, E. A. `(2022)`. Vaccine Hesitancy Under the Magnifying Glass: A Systematic Review of the Uses and Misuses of an Increasingly Popular Construct. *Health Communication*, 1–15. [DOI](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2054102)
+5. Ophir, Y., Pruden, M. L., Walter, D., **Lokmanoglu, A. D.**, Tebaldi, C., & Wang, R. `(2022)`. Weaponizing Reproduction Rights: A Mixed-Method Analysis of White Nationalists' Discussion of Abortions Online. *Information, Communication & Society*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654) 
 
 
-7. **Lokmanoglu, A. D.**, Winkler, C. K., McMinimy, K., & Almahmoud, M. `(2022)`. ISIS Media and Troop Withdrawal Announcements: Visualizing Community and Resilience. *International Journal of Communication*, 16, 215–246. [DOI](https://ijoc.org/index.php/ijoc/article/view/18055)
+6. Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. `(2022)`. Vaccine discourse in white nationalist online communication: A mixed-methods computational approach. *Social Science & Medicine*, 298, Article 114859. [DOI](https://www.tandfonline.com/doi/full/10.1080/1369118X.2022.2077654)
 
 
-8. McMinimy, K., Winkler, C. K., **Lokmanoglu, A. D.**, & Almahmoud, M. `(2021)`. Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS. *Terrorism and Political Violence*, 1–17. [DOI](https://doi.org/10.1080/09546553.2021.1988938)
+7. Ophir, Y., Walter, N., Walter, D., Velho, R. M., **Lokmanoglu, A. D.**, Pruden, M. L., & Andrews, E. A. `(2022)`. Vaccine Hesitancy Under the Magnifying Glass: A Systematic Review of the Uses and Misuses of an Increasingly Popular Construct. *Health Communication*, 1–15. [DOI](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2054102)
 
 
-9. Ophir, Y., Walter, D., Arnon, D., **Lokmanoglu, A.**, Tizzoni, M., Carota, J., D’Antiga, L., & Nicastro, E. `(2021)`. The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach. *Journal of Health Communication*, 26(3), 161–173. [DOI](https://doi.org/10.1080/10810730.2021.1899344) 
+8. **Lokmanoglu, A. D.**, Winkler, C. K., McMinimy, K., & Almahmoud, M. `(2022)`. ISIS Media and Troop Withdrawal Announcements: Visualizing Community and Resilience. *International Journal of Communication*, 16, 215–246. [DOI](https://ijoc.org/index.php/ijoc/article/view/18055)
 
 
-10. **Lokmanoglu, A.** `(2020)`. Coin as Imagined Sovereignty: A Rhetorical Analysis of Coins as a Transhistorical Artifact and an Ideograph in Islamic State’s Communication. *Studies in Conflict & Terrorism, 44(1), 1–22*. [DOI](https://doi.org/10.1080/1057610X.2020.1793458)
+9. McMinimy, K., Winkler, C. K., **Lokmanoglu, A. D.**, & Almahmoud, M. `(2021)`. Censoring Extremism: Influence of Online Restriction on Official Media Products of ISIS. *Terrorism and Political Violence*, 1–17. [DOI](https://doi.org/10.1080/09546553.2021.1988938)
 
 
-11. Bloom, M., & **Lokmanoglu, A.** `(2020)`. From Pawn to Knights: The Changing Role of Women’s Agency in Terrorism? *Studies in Conflict & Terrorism*, 1–16. [DOI](https://doi.org/10.1080/1057610X.2020.1759263)
+10. Ophir, Y., Walter, D., Arnon, D., **Lokmanoglu, A.**, Tizzoni, M., Carota, J., D’Antiga, L., & Nicastro, E. `(2021)`. The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach. *Journal of Health Communication*, 26(3), 161–173. [DOI](https://doi.org/10.1080/10810730.2021.1899344) 
 
 
-12. Kaczkowski, W., **Lokmanoglu, A.**, & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
+11. **Lokmanoglu, A.** `(2020)`. Coin as Imagined Sovereignty: A Rhetorical Analysis of Coins as a Transhistorical Artifact and an Ideograph in Islamic State’s Communication. *Studies in Conflict & Terrorism, 44(1), 1–22*. [DOI](https://doi.org/10.1080/1057610X.2020.1793458)
+
+
+12. Bloom, M., & **Lokmanoglu, A.** `(2020)`. From Pawn to Knights: The Changing Role of Women’s Agency in Terrorism? *Studies in Conflict & Terrorism*, 1–16. [DOI](https://doi.org/10.1080/1057610X.2020.1759263)
+
+
+13. Kaczkowski, W., **Lokmanoglu, A.**, & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
 
 ### Book Chapters 
 
