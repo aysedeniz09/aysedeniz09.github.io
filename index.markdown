@@ -15,6 +15,6 @@ I completed my Ph.D. in Communication at Georgia State University, as a presiden
 
 You can reach me at aysedlokmanoglu [at] gmail [dot] com or alokman [at] clemson [dot] edu. 
 
-Additional Information: Ayşe is pronounced eye-shea
+Additional Information: Ayşe is pronounced eye-shea.
 
 <i class="ai ai-google-scholar"></i>
