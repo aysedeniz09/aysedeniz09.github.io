@@ -6,18 +6,16 @@ permalink: /Teaching/
 ## Instructor
 
 *Northwestern University* 
-
 Social Media Listening (Graduate Course), Master of Science in Communication, Summer 2023	
 
 *IMSISS Erasmus Mundus Joint Master’s Degree in Security and Intelligence* 
-
 Social Media Analytics (Graduate Course), Spring 2023
 
 *2nd SocialComQuant Summer School on Computational Social Science* 
 Methods for analyzing and modeling textual data (Graduate Course), Summer 2022
 
-*Georgia State University*</br> Media, Culture and Society (Undergraduate Course),
-Spring 2020
+*Georgia State University* 
+Media, Culture and Society (Undergraduate Course), Spring 2020
 
 ## Guest Lectures
 
