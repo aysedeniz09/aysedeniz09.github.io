@@ -14,7 +14,7 @@ Evanston, IL, 60208, USA<br/>
 
 ## Employment
 `2023-present` 
-**Assistant Professor**, *Department of Communication Clemson University*, Clemson, SC, USA. 
+**Assistant Professor**, *Department of Communication Clemson University*, Clemson, SC, USA.
 
 `2021-2023`
 **Postdoctoral Fellow**, *Center for Communication and Public Policy Northwestern University*, Evanston, IL, USA.
