@@ -13,8 +13,10 @@ Evanston, IL, 60208, USA<br/>
 <a href="ayse.lokmanoglu@northwestern.edu">ayse.lokmanoglu@northwestern.edu</a> - +1-‪(224) 534-9617‬‬
 
 ## Employment
+`2023-present` 
+**Assistant Professor**, *Department of Communication Clemson University*, Clemson, SC, USA. 
 
-`2021- present`
+`2021-2023`
 **Postdoctoral Fellow**, *Center for Communication and Public Policy Northwestern University*, Evanston, IL, USA.
 
 ## Education
