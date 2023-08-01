@@ -10,7 +10,7 @@ Frances Searle Building <br/>
 2240 Campus Drive Room 1175 <br/>
 Evanston, IL, 60208, USA<br/>
 
-<a href="ayse.lokmanoglu@northwestern.edu">ayse.lokmanoglu@northwestern.edu</a> - +1-‪(224) 534-9617‬‬
+<a href="alokman@clemson.edu">alokman@clemson.edu</a> - +1-‪(224) 534-9617‬‬
 
 ## Employment
 `2023-present` 
