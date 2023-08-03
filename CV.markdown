@@ -69,7 +69,7 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Peer-Reviewed Journal Articles
 
-1. Yang, F., Cai, M., Mortenson, C. M., Fakhari, H., **Lokmanoglu, A. D.**, Hullman, J., Franconeri, S., Diakopoulos, N., Nisbet, E., & Kay, M. `(2023)` Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. *IEEE Transactions on Visualization and Computer Graphics (TVCG)*.
+1. Yang, F., Cai, M., Mortenson, C. M., Fakhari, H., **Lokmanoglu, A. D.**, Hullman, J., Franconeri, S., Diakopoulos, N., Nisbet, E., & Kay, M. `(2023)` Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. *IEEE Transactions on Visualization and Computer Graphics (TVCG)*. [Preprint](https://osf.io/qpyna/)
 
 
 2. **Lokmanoglu, A.**,  Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R.`(2023)`. Social Media Sentiment about COVID-19 Vaccination Predicts Vaccine Acceptance Among Peruvian Social Media Users the Next Day. *Vaccines*. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
@@ -127,8 +127,15 @@ Thesis: The implications of the changes in elementary school religious education
 
 6. Winkler, C., & **Lokmanoglu, A.** `(2019)`. Communicating Terrorism and Counterterrorism. In B. C. Taylor & H. Bean (Eds.), *The Handbook of Communication and Security* (First edition, pp. 381–398). Routledge.
 
+###  Edited Journals/Symposiums
+
+Demetriades, S. Z., Lokmanoglu, A., Walter, N. (Eds.) Health Communication for Displaces Populations [Special Issue]. International Journal of Communication (forthcoming January 2024).
+
+Lokmanoglu, A.D., & Fitzgerald, J. (Eds.), The (International) Politics of Content Takedowns: Theory, Practice, Ethics [Special Issue]. Policy & Internet (forthcoming September 2023).
+
 ### Peer-Reviewed Journal Articles under Review 
 
+Lokmanoglu, A., Winkler, C., El Damanhoury, K., Massignan, V., Villa Turek, E., & Chen, K. A. Economic Interdependence and Global Media Outreach: A Study of RT's Rhetoric of Economics on Facebook
 
 ### Book Manuscripts in Progress
 
@@ -304,6 +311,7 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 ## Professional Affiliations & Service 
 
 ### Affiliations
+- Affiliate, [Center for Information, Technology, and Public Life (CITAP) UNC](https://citap.unc.edu/about/affiliates/)
 - Member, National Communication Association
 - Member, International Communication Association
 - Member, American Political Science Association 
@@ -327,9 +335,6 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 - Reviewer, Public Health
 - Reviewer, Journal of Medical Internet Research
 
-### Special Issue 
-- Co-editor, Special Issue in The (International) Politics of Content Takedowns: Theory, Practice, Ethics, Policy & Internet (forthcoming September 2023)
-
 ### Service to the Field
 - Mentor in Chicago Area Behavioral (CAB) Workshop, Northwestern University
 - Women in Data (WID) Science Competition Participant 
@@ -347,4 +352,4 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 
 ### References will be provided upon request
 
-<br/>Last updated: April 2023 <br/><br/>
+<br/>Last updated: August 2023 <br/><br/>
