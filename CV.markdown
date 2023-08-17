@@ -44,7 +44,7 @@ Thesis: The implications of the changes in elementary school religious education
  2. Top Paper Award (Division) Division of Peace and Conflict Communication in National Communication Association (2021)
 
 ### External Grants
- 3. “Meme Content Analysis: Classification and Diffusion of Memes in Fringe Social”, PI, The Global Network on Extremism and Technology (GNET), 6,000 GBP, (2022)
+ 3. “Meme Content Analysis: Classification and Diffusion of Memes in Fringe Social”, PI, The Global Network on Extremism and Technology (GNET), 6,000 GBP, (2022-2023)
  
  4. “Mobilizing Media: A Deep and Comparative Analysis of Magazines, Music, and Videos in the Context of Terrorism”, Air Force Office of Scientific Research, #FA9550-15-1-0373 PI: Dr. Anthony Lemieux, Georgia State University, Doctoral Research Assistant, 2,250,000 USD, (2017-2021).
 
