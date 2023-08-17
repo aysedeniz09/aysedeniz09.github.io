@@ -4,17 +4,18 @@ title: "Research"
 permalink: /Research/
 ---
 
-# Information Campaigns
 
 ## Supremacist Messaging
 
-**Lokmanoglu, Ayse D.**, Mowafak Allaham, Rod Abhari, Chloe Mortenson, and Esteban Villa‑Turek. “A Picture Is Worth a Thousand (S)Words: Classification and Diffusion of Memes on a Partisan Media Platform.” London: Global Network on Extremism and Technology (GNET), March 2023. [DOI](https://gnet-research.org/wp-content/uploads/2023/03/GNET-33-Meme-Classification-on-Partisan-Platform_web.pdf)[Code](https://github.com/nwccpp/meme-project)
+**Lokmanoglu, A. D.**, Allaham, M., Abhari, R., Mortenson, C., & Villa Turek, E. `(2023)`. A Picture is Worth a Thousand (S)words: Classification and Diffusion of Memes on a Partisan Media Platform [Year 3 Award]. Global Network on Extremism & Terrorism (GNET). [DOI](https://gnet-research.org/wp-content/uploads/2023/03/GNET-33-Meme-Classification-on-Partisan-Platform_web.pdf)[Code](https://github.com/nwccpp/meme-project)
 
 **Lokmanoglu, A.**, Winkler, C., Al Mahmoud, M., McMinimy, K., & Kountz, K. `(2022)`. Textual Messaging of ISIS’s al-Naba and the Context Drivers that Correspond to Strategic Changes. *Studies in Conflict and Terrorism*. [DOI](https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245) [Code](https://github.com/aysedeniz09/ThematicClusters/blob/main/AN_github_v2.md)
 
 **Lokmanoglu, A. D.**, Winkler, C. K., McMinimy, K., & Almahmoud, M. `(2022)`. ISIS Media and Troop Withdrawal Announcements: Visualizing Community and Resilience. *International Journal of Communication*, 16, 215–246. [DOI](https://ijoc.org/index.php/ijoc/article/view/18055)
 
 **Lokmanoglu, A.** `(2020)`. Coin as Imagined Sovereignty: A Rhetorical Analysis of Coins as a Transhistorical Artifact and an Ideograph in Islamic State’s Communication. *Studies in Conflict & Terrorism, 44(1), 1–22*. [DOI](https://doi.org/10.1080/1057610X.2020.1793458)
+
+Conroy, M., Pruden, M. L., Stiverson, H., & **Lokmanoglu, A. D.** (Eds.). `(2024)`. Banal Fascism Online: Weaponizing the “Everyday” for Extreme Ends. Routledge/Taylor & Francis Group.
 
 
 ## Gender
@@ -33,7 +34,9 @@ Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. `(2022)`. Vaccine 
 
 ## Information Integrity
 
-**Lokmanoglu, A.**, Erik C Nisbet, Matthew T Osborne, Joseph Tien, Sam Malloy, Lourdes Cueva Chacón, Esteban Villa Turek, Rod Abhari. `(2023)`. Social Media Sentiment about COVID -19 Vaccination Predicts Vaccine Acceptance Among Peruvian Social Media Users the Next Day. *Vaccines*. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
+**Lokmanoglu, A. D.**, Nisbet, E. C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R. `(2023)`. Social Media Sentiment about COVID-19 Vaccination Predicts Vaccine Acceptance among Peruvian Social Media Users the Next Day. Vaccines, 11(4), Article 4. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
+
+Yang, F., Cai, M., Mortenson, C. R., Fakhari, H., **Lokmanoglu, A. D.**, Jessica Hullman, Steven Franconeri, Nicholas Diakopoulos, Erik Nisbet, & Matthew Kay. `(2023)`. Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. IEEE Transactions on Visualization and Computer Graphics (TVCG).
 
 Kaczkowski, W., **Lokmanoglu, A.**, & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
 
