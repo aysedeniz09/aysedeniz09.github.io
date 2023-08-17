@@ -6,9 +6,9 @@ permalink: /CV/
 
 # Ayse Deniz Lokmanoglu
 
-Frances Searle Building <br/>
-2240 Campus Drive Room 1175 <br/>
-Evanston, IL, 60208, USA<br/>
+406 Strode Tower <br/>
+Clemson University <br/>
+Clemson, SC, 29634, USA<br/>
 
 <a href="alokman@clemson.edu">alokman@clemson.edu</a> - +1-‪(224) 534-9617‬‬
 
