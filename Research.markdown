@@ -36,7 +36,7 @@ Walter, D., Ophir, Y., **Lokmanoglu, A. D.**, & Pruden, M. L. `(2022)`. Vaccine 
 
 **Lokmanoglu, A. D.**, Nisbet, E. C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R. `(2023)`. Social Media Sentiment about COVID-19 Vaccination Predicts Vaccine Acceptance among Peruvian Social Media Users the Next Day. Vaccines, 11(4), Article 4. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
 
-Yang, F., Cai, M., Mortenson, C. R., Fakhari, H., **Lokmanoglu, A. D.**, Jessica Hullman, Steven Franconeri, Nicholas Diakopoulos, Erik Nisbet, & Matthew Kay. `(2023)`. Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. IEEE Transactions on Visualization and Computer Graphics (TVCG).
+Yang, F., Cai, M., Mortenson, C. R., Fakhari, H., **Lokmanoglu, A. D.**, Hullman, J., Franconeri, S., Diakopoulos, N., Nisbet, E., & Kay, M. `(2023)`. Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. IEEE Transactions on Visualization and Computer Graphics (TVCG).
 
 Kaczkowski, W., **Lokmanoglu, A.**, & Winkler, C. `(2019)`. Definitions matter: A comparison of the global terrorism database and the U.S. governmental reports of terrorist incidents in Western Europe, 2002-2016. *Cambridge Review of International Affairs*, 1–18. [DOI](https://doi.org/10.1080/09557571.2019.1705246)  
 
