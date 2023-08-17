@@ -325,7 +325,8 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 - Treasurer, Georgia State University Communication Graduate Student Association (CGSA) (2019-2020)
 
 ### Journal Reviews
-- Reviewer, International Journal of Communication
+-  Reviewer, Journal of Communication
+-  Reviewer, International Journal of Communication
 - Reviewer, Studies of Conflict and Terrorism (Special Issue: Gender and Terrorism)
 - Reviewer, Perspectives of Terrorism
 - Reviewer, Journal of Peace Research
