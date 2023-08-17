@@ -12,6 +12,8 @@ My [dissertation](https://scholarworks.gsu.edu/communication_diss/102/), which w
 
 I completed my Ph.D. in Communication at Georgia State University, as a presidential fellow in Transcultural Conflict and Violence Initiative (TCV), M.A. in Middle Eastern Studies at Harvard University and B.A. in Near Eastern Studies and Economics at Cornell University.  Previously I was a postdoctoral fellow at the Center for Communication and Public Policy at Northwestern University.
 
+I an affiliate of [CITAP UNC](https://citap.unc.edu/about/affiliates/) and a member of the leadership team of [VOX-Pol](https://www.voxpol.eu/people/).   
+
 You can reach me at aysedlokmanoglu [at] gmail [dot] com or alokman [at] clemson [dot] edu. 
 
 Additional Information: Ayşe is pronounced eye-shea.
