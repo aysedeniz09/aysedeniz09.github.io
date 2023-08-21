@@ -39,9 +39,11 @@ Thesis: The implications of the changes in elementary school religious education
 ## Grants, Awards & Fellowships
 
 ### Awards
- 1. National Communication Association Gerald R. Miller Outstanding Doctoral Dissertation Award (2022)
+ 1. IEEE VIS 2023 Best Paper (2023)
 
- 2. Top Paper Award (Division) Division of Peace and Conflict Communication in National Communication Association (2021)
+ 2. National Communication Association Gerald R. Miller Outstanding Doctoral Dissertation Award (2022)
+
+ 3. Top Paper Award (Division) Division of Peace and Conflict Communication in National Communication Association (2021)
 
 ### External Grants
  3. “Meme Content Analysis: Classification and Diffusion of Memes in Fringe Social”, PI, The Global Network on Extremism and Technology (GNET), 6,000 GBP, (2022-2023)
@@ -62,6 +64,15 @@ Thesis: The implications of the changes in elementary school religious education
 ### Fellowships
  10. Presidential Fellow Program in Transcultural Violence and Conflict Initiative Georgia State University (2017-2021) $22,000 per year for 4 years
 
+### Fellowships and Affiliations
+11. Media Forensics Hub, Clemson University, Core Faculty (2023-present)
+    
+12. Center for Information, Technology, and Public Life (CITAP) UNC (2023-2024)
+    
+13. VOX-Pol Network of Excellence (NoE), Leadership Member (2022-present)
+    
+14. Presidential Fellow Program in Transcultural Violence and Conflict Initiative Georgia State University (2017-2021) $22,000 per year for 4 years
+
 
 ## Publications
 
@@ -69,8 +80,7 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Peer-Reviewed Journal Articles
 
-1. Yang, F., Cai, M., Mortenson, C. M., Fakhari, H., **Lokmanoglu, A. D.**, Hullman, J., Franconeri, S., Diakopoulos, N., Nisbet, E., & Kay, M. `(2023)` Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. *IEEE Transactions on Visualization and Computer Graphics (TVCG)*. [Preprint](https://osf.io/qpyna/)
-
+1. Yang, F., Cai, M., Mortenson, C. M., Fakhari, H., **Lokmanoglu, A. D.**, Hullman, J., Franconeri, S., Diakopoulos, N., Nisbet, E., & Kay, M. `(2023)` Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. *IEEE Transactions on Visualization and Computer Graphics (TVCG)*. [Preprint](https://osf.io/qpyna/) *IEEE VIS23 Best Paper Award
 
 2. **Lokmanoglu, A.**,  Nisbet, E.C., Osborne, M. T., Tien, J., Malloy, S., Cueva Chacón, L., Villa Turek, E., & Abhari, R.`(2023)`. Social Media Sentiment about COVID-19 Vaccination Predicts Vaccine Acceptance Among Peruvian Social Media Users the Next Day. *Vaccines*. [DOI](https://doi.org/10.3390/vaccines11040817) [Code](https://github.com/nwccpp/peru-sarf)
 
@@ -285,6 +295,9 @@ News Article Scraper [GitHub](https://github.com/nwccpp/covid_news/blob/main/nw_
 ## Teaching
 
 ### Instructor
+
+*Clemson University*<br/>
+Political Communication (Undergraduate Course), Fall 2023
 
 *Northwestern University*<br/>
 Social Media Listening (Graduate Course), Summer 2023
