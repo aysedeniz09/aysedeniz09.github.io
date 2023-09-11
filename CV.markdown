@@ -61,19 +61,19 @@ Thesis: The implications of the changes in elementary school religious education
  10. “Documenting the Virtual Caliphates”, Office of Naval Research Minerva Research Initiative, #N00001416-1-3174, PI: Dr. Mia Bloom, Georgia State University, Doctoral Research Assistant, 255,000 USD, (2017-2019).
 
 ### Internal Grants
- 9. “Using culturally-centered narratives to eliminate COVID-19 vaccination disparities among Congolese and Somalian refugees in the U.S”, co-PI, Delaney Family Foundation, 38,750 USD, (2022).
+ 11. “Using culturally-centered narratives to eliminate COVID-19 vaccination disparities among Congolese and Somalian refugees in the U.S”, co-PI, Delaney Family Foundation, 38,750 USD, (2022).
 
 ### Fellowships
- 10. Presidential Fellow Program in Transcultural Violence and Conflict Initiative Georgia State University (2017-2021) $22,000 per year for 4 years
+ 12. Presidential Fellow Program in Transcultural Violence and Conflict Initiative Georgia State University (2017-2021) $22,000 per year for 4 years
 
 ### Fellowships and Affiliations
-11. Media Forensics Hub, Clemson University, Core Faculty (2023-present)
+13. Media Forensics Hub, Clemson University, Core Faculty (2023-present)
     
-12. Center for Information, Technology, and Public Life (CITAP) UNC (2023-2024)
+14. Center for Information, Technology, and Public Life (CITAP) UNC (2023-2024)
     
-13. VOX-Pol Network of Excellence (NoE), Leadership Member (2022-present)
+15. VOX-Pol Network of Excellence (NoE), Leadership Member (2022-present)
     
-14. Presidential Fellow Program in Transcultural Violence and Conflict Initiative Georgia State University (2017-2021) $22,000 per year for 4 years
+16. Presidential Fellow Program in Transcultural Violence and Conflict Initiative Georgia State University (2017-2021) $22,000 per year for 4 years
 
 
 ## Publications
