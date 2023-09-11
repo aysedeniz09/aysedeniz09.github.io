@@ -46,17 +46,19 @@ Thesis: The implications of the changes in elementary school religious education
  3. Top Paper Award (Division) Division of Peace and Conflict Communication in National Communication Association (2021)
 
 ### External Grants
- 3. “Meme Content Analysis: Classification and Diffusion of Memes in Fringe Social”, PI, The Global Network on Extremism and Technology (GNET), 6,000 GBP, (2022-2023)
- 
- 4. “Mobilizing Media: A Deep and Comparative Analysis of Magazines, Music, and Videos in the Context of Terrorism”, Air Force Office of Scientific Research, #FA9550-15-1-0373 PI: Dr. Anthony Lemieux, Georgia State University, Doctoral Research Assistant, 2,250,000 USD, (2017-2021).
+ 4. “Networks and Pathways of Violent Extremism: Effectiveness of Dis/Misinformation Campaigns”, PI, National Institute of Justice, $953,203, (2023-2026)
 
- 5. "Exploring the Internationalization of Extreme Right Public Spheres", Facebook Phase Two Content Policy Research Award, PI: Dr. Dror Walter, Georgia State University and Dr. Yannick Veilleux-Lepage, Leiden University, Doctoral Research Assistant, 82,388 USD, (2020-2021).
+ 5. “Meme Content Analysis: Classification and Diffusion of Memes in Fringe Social”, PI, The Global Network on Extremism and Technology (GNET), 6,000 GBP, (2022-2023)
+ 
+ 6. “Mobilizing Media: A Deep and Comparative Analysis of Magazines, Music, and Videos in the Context of Terrorism”, Air Force Office of Scientific Research, #FA9550-15-1-0373 PI: Dr. Anthony Lemieux, Georgia State University, Doctoral Research Assistant, 2,250,000 USD, (2017-2021).
 
- 6. “The Jihadi Archive: A Database of Terrorist Tactics and Techniques”, Office of Naval Research Minerva Research Initiative, #N0001419SB001, PI: Dr. Mia Bloom, Georgia State University, Doctoral Research Assistant, 80,000 USD, (2019-2020).
+ 7. "Exploring the Internationalization of Extreme Right Public Spheres", Facebook Phase Two Content Policy Research Award, PI: Dr. Dror Walter, Georgia State University and Dr. Yannick Veilleux-Lepage, Leiden University, Doctoral Research Assistant, 82,388 USD, (2020-2021).
+
+ 8. “The Jihadi Archive: A Database of Terrorist Tactics and Techniques”, Office of Naval Research Minerva Research Initiative, #N0001419SB001, PI: Dr. Mia Bloom, Georgia State University, Doctoral Research Assistant, 80,000 USD, (2019-2020).
  
- 7. Preventing the Next Generation: Mapping Children’s Mobilization Into Violent Extremist Organizations”, Office of Naval Research Minerva Research Initiative, #N00001416-1-2693, PI: Dr. Mia Bloom, Georgia State University, Doctoral Research Assistant, 941,169 USD, (2017-2020).
+ 9. Preventing the Next Generation: Mapping Children’s Mobilization Into Violent Extremist Organizations”, Office of Naval Research Minerva Research Initiative, #N00001416-1-2693, PI: Dr. Mia Bloom, Georgia State University, Doctoral Research Assistant, 941,169 USD, (2017-2020).
  
- 8. “Documenting the Virtual Caliphates”, Office of Naval Research Minerva Research Initiative, #N00001416-1-3174, PI: Dr. Mia Bloom, Georgia State University, Doctoral Research Assistant, 255,000 USD, (2017-2019).
+ 10. “Documenting the Virtual Caliphates”, Office of Naval Research Minerva Research Initiative, #N00001416-1-3174, PI: Dr. Mia Bloom, Georgia State University, Doctoral Research Assistant, 255,000 USD, (2017-2019).
 
 ### Internal Grants
  9. “Using culturally-centered narratives to eliminate COVID-19 vaccination disparities among Congolese and Somalian refugees in the U.S”, co-PI, Delaney Family Foundation, 38,750 USD, (2022).
