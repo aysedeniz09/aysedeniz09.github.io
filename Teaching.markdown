@@ -6,6 +6,7 @@ permalink: /Teaching/
 ## Instructor
 *Clemson University*
 Political Communication (Undergraduate Course), Fall 2023
+Disinformation, Spring 2024
 
 *Northwestern University* 
 Social Media Listening (Graduate Course), Master of Science in Communication, Summer 2023	
