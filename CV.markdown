@@ -300,6 +300,7 @@ News Article Scraper [GitHub](https://github.com/nwccpp/covid_news/blob/main/nw_
 
 *Clemson University*<br/>
 Political Communication (Undergraduate Course), Fall 2023
+Disinformation (Undergraduate Course), Spring 2024
 
 *Northwestern University*<br/>
 Social Media Listening (Graduate Course), Summer 2023
