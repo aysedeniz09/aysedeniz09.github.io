@@ -339,18 +339,6 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 - Vice President, Georgia State University Communication Graduate Student Association (CGSA) (2020-2021)
 - Treasurer, Georgia State University Communication Graduate Student Association (CGSA) (2019-2020)
 
-### Journal Reviews
--  Reviewer, Journal of Communication
--  Reviewer, International Journal of Communication
-- Reviewer, Studies of Conflict and Terrorism (Special Issue: Gender and Terrorism)
-- Reviewer, Perspectives of Terrorism
-- Reviewer, Journal of Peace Research
-- Reviewer, New Media & Society
-- Reviewer, European Journal of International Security
-- Reviewer, Humanities and Social Sciences Communications
-- Reviewer, Public Health
-- Reviewer, Journal of Medical Internet Research
-
 ### Service to the Field
 - Mentor in Chicago Area Behavioral (CAB) Workshop, Northwestern University
 - Women in Data (WID) Science Competition Participant 
@@ -365,6 +353,23 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 - Mental Health First Aid (MHFA) USA, 2022-2025
 - Longitudinal Data Analysis Using R, Instructor: Stephen Vaisey, Statistical Horizon, November 2021
 - Longitudinal Data Analysis Using SEM, Instructor: Paul Allison, Statistical Horizon, October 2021
+
+
+### Ad Hoc Reviewer (Alphabetical order)
+#### Grant Reviews
+- National Science Foundation (NSF) Secure and Trustworthy Cyberspace (SaTC), 2023
+  
+#### Journal Reviews
+- ACM Conference on Computer-Supported Cooperative Work And Social Computing
+- Digital Health
+- European Journal of International Security
+- Humanities & Social Sciences
+- International Journal of Communication
+- Journal of Communication
+- Journal of Peace Research
+- Journalism
+- New Media & Society
+- Perspectives of Terrorism
 
 ### References will be provided upon request
 
