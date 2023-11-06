@@ -82,7 +82,7 @@ Thesis: The implications of the changes in elementary school religious education
 
 ### Peer-Reviewed Journal Articles
 
-1. Fitzgerald, J., & **Lokmanoglu, A. D.** `(2023)` Special issue: The (international) politics of content takedowns: Theory, practice, ethics. *Policy & Internet*. https://doi.org/10.1002/poi3.375
+1. Fitzgerald, J., & **Lokmanoglu, A. D.** `(2023)` Special issue: The (international) politics of content takedowns: Theory, practice, ethics. *Policy & Internet*. [DOI](https://doi.org/10.1002/poi3.375)
 
 2. Yang, F., Cai, M., Mortenson, C. M., Fakhari, H., **Lokmanoglu, A. D.**, Hullman, J., Franconeri, S., Diakopoulos, N., Nisbet, E., & Kay, M. `(2023)` Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. *IEEE Transactions on Visualization and Computer Graphics (TVCG)*. [Preprint](https://osf.io/qpyna/) *IEEE VIS23 Best Paper Award
 
