@@ -376,4 +376,4 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 
 ### References will be provided upon request
 
-<br/>Last updated: August 2023 <br/><br/>
+<br/>Last updated: November 2023 <br/><br/>
