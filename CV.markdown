@@ -149,7 +149,9 @@ Lokmanoglu, A.D., & Fitzgerald, J. (Eds.), The (International) Politics of Conte
 
 ### Peer-Reviewed Journal Articles under Review 
 
-Lokmanoglu, A., Winkler, C., El Damanhoury, K., Massignan, V., Villa Turek, E., & Chen, K. A. Economic Interdependence and Global Media Outreach: A Study of RT's Rhetoric of Economics on Facebook
+**Lokmanoglu, A.**, Winkler, C., El Damanhoury, K., Massignan, V., Villa Turek, E., & Chen, K. A. Economic Interdependence and Global Media Outreach: A Study of RT's Rhetoric of Economics on Facebook.
+
+Fitzgerald, J., **Lokmanoglu, A.**, Salles, D., & Santini, R. M. Heaven Holds a Place for Those who Pray: Instrumentalizing religion and disinformation the 2022 Brazilian and 2023 Turkish presidential campaigns.
 
 ### Book Manuscripts in Progress
 
@@ -184,7 +186,6 @@ Criezis, M., & **Lokmanoglu, A.** (2020, November 13). Baghdadi Fan Mail. *Globa
 Allison, B. V., & **Lokmanoglu, A.** (2020, July 13). Why CHAZ/CHOP Failed. *Inkstick*. [Link](https://inkstickmedia.com/why-chaz-chop-failed/)
 
 ### Conference Presentations
-
 
 Billard, T. J., Pruden, M. L., Jereza, R., **Lokmanoglu, A. D.**, Alimardani, M., & Narayanamoorthy, N. (2023, May 28). BLUE SKY BIG IDEAS WORKSHOP: *Burn After Reading: Research-Related Trauma, Symbolic Violence, and the Need for Structural Solutions*. International Communication Association (ICA), Toronto, Canada.
 
@@ -376,4 +377,4 @@ Media, Culture and Society (Undergraduate Course), Spring 2020
 
 ### References will be provided upon request
 
-<br/>Last updated: November 2023 <br/><br/>
+<br/>Last updated: January 2024 <br/><br/>
