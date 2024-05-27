@@ -29,7 +29,7 @@ category: work
 ### Media Influence on Public Opinion
 #### Study of how media presentations and sentiment influence public perception and behavior regarding health and political issues.
 
-- Yang, F., Cai, M., Mortenson, C., Fakhari, H., Lokmanoglu, A. D., Hullman, J., Franconeri, S., Diakopoulos, N., Nisbet, E. C., & Kay, M. (2024). Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. IEEE Transactions on Visualization and Computer Graphics, 30(01), 23–33. [Link](https://ieeexplore.ieee.org/document/10309864)
+- Yang, F., Cai, M., Mortenson, C., Fakhari, H., Lokmanoglu, A. D., Hullman, J., Franconeri, S., Diakopoulos, N., Nisbet, E. C., & Kay, M. (2024). Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms. IEEE Transactions on Visualization and Computer Graphics, 30(01), 23–33. 
 
 - Ophir, Y., Walter, N., Walter, D., Velho, R. M., Lokmanoglu, A. D., Pruden, M. L., & Andrews, E. A. (2022). Vaccine Hesitancy Under the Magnifying Glass: A Systematic Review of the Uses and Misuses of an Increasingly Popular Construct. Health Communication, 1–15. [Link](https://doi.org/10.1080/10410236.2022.2054102)
 
