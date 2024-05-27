@@ -1,7 +1,8 @@
+
 ---
 layout: post
 title: R Tutorials
-date: 2024-05-27 16:30:00
+date: 2024-05-27 18:47:00
 tags: code
 categories: sample-posts
 citation: false
