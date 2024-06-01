@@ -1,7 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Affiliated Labs
+title: people
+description: members of the lab or group
 nav: true
 nav_order: 7
 
@@ -9,19 +10,19 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: 10.jpg
-    content: about_ccpp.md
+    image: prof_pic.jpg
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Northwestern University</p>
-      <p>1-175 Frances Searle Building</p>
-      <p>Evanston, IL 60208</p>
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
   - align: left
-    image: 11.jpg
-    content: about_mfb.md
+    image: prof_pic.jpg
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Clemson University</p>
-      <p>Watt Family Innovation Center</p>
-      <p>Clemson, SC 29634</p>
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
 ---
