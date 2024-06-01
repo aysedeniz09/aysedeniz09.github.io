@@ -1,8 +1,8 @@
 ---
 layout: page
-title: work
+title: submenus
 nav: true
-nav_order: 9
+nav_order: 8
 dropdown: true
 children:
   - title: publications
@@ -11,6 +11,6 @@ children:
   - title: projects
     permalink: /projects/
   - title: divider
-  - title: conference
-    permalink: /conference/
+  - title: blog
+    permalink: /blog/
 ---
