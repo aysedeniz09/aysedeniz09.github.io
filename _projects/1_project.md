@@ -16,18 +16,18 @@ category: work
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="https://www.tandfonline.com/doi/abs/10.1080/09546553.2021.1988938">
+        <a href="https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245">
             {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="https://www.tandfonline.com/doi/full/10.1080/1057610X.2022.2109245">
+        <a href="https://www.tandfonline.com/doi/full/10.1080/1057610X.2020.1793458">
             {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>
 <div class="caption">
-    On the left, IS Arabic Topic Network (Lokmanoglu, 2021). Middle, network graph of ISIS religious doctrine (Lokmanoglu et al., 2022). Right, Temporal Distribution of Monetary Economic Content (Lokmanoglu et al., 2022). 
+    On the left, IS Arabic Topic Network (Lokmanoglu, 2021). Middle, network graph of ISIS religious doctrine (Lokmanoglu et al., 2022). Right, Temporal Distribution of Monetary Economic Content (Lokmanoglu, 2020). 
 </div>
 
 
