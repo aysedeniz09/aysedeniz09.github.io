@@ -26,20 +26,20 @@
     {
       "position": "Assistant Professor (incoming)",
       "startDate": "July 2024",
-      "organization": "Emerging Media Studies, College of Communication, Boston University, Boston, MA, USA"    
+      "summary": "Emerging Media Studies, College of Communication, Boston University, Boston, MA, USA"    
     },
     {
       "position": "Assistant Professor",
       "startDate": "2023",
       "endDate": "2024",
-      "organization": "Department of Communication, Clemson University, Clemson, SC, USA",
+      "summary": "Department of Communication, Clemson University, Clemson, SC, USA",
       "highlights": [
         "Core Faculty in Media Forensics Hub"]
     },
     {   "position": "Post-Doctoral Fellow",
     "startDate": "2021",
     "endDate": "2023",
-    "organization": "Center for Communication and Public Policy, Northwestern University, Evanston, IL, USA",
+    "summary": "Center for Communication and Public Policy, Northwestern University, Evanston, IL, USA",
     "highlights": [
       "Supervisor: Erik Nisbet"
     ] }
