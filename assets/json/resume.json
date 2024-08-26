@@ -46,6 +46,16 @@
   ],
   "affiliations": [
     {
+      "organization": "Center for Communication and Public Policy",
+      "location": "Northwestern University",
+      "position": "Coordinating Team",
+      "url": "https://www.communication.northwestern.edu/research/centers/ccpp/",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
       "organization": "Media Forensics Hub",
       "location": "Clemson University",
       "position": "Affiliate, previously Core Faculty",
@@ -107,6 +117,13 @@
     }
   ],
   "awards": [
+
+    {
+      "title": "Top Paper Award Division of Visual Communication in National Communication Association",
+      "date": "2024"},
+    {
+      "title": "Top Faculty Paper Award Division International & Intercultural Communication at National Communication Association",
+      "date": "2024"},
     {
       "title": "IEEE VIS 2023 Best Paper",
       "date": "2023"
