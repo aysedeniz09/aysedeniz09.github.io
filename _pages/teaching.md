@@ -9,21 +9,24 @@ nav_order: 6
 
 ## Instructor
 
+*Boston University*
+Interactive Media Design (Graduate), Fall 2024
+
 *Clemson University*
-Disinformation (Undergraduate Course), Spring 2024
-Political Communication (Undergraduate Course), Fall 2023
+Disinformation (Undergraduate), Spring 2024
+Political Communication (Undergraduate), Fall 2023
 
 *Northwestern University* 
-Social Media Listening (Graduate Course), Master of Science in Communication, Summer 2023	
+Social Media Listening (Graduate), Master of Science in Communication, Summer 2023	
 
 *IMSISS Erasmus Mundus Joint Master’s Degree in Security and Intelligence* 
-Social Media Analytics (Graduate Course), Spring 2023
+Social Media Analytics (Graduate), Spring 2023
 
 *2nd SocialComQuant Summer School on Computational Social Science* 
-Methods for analyzing and modeling textual data (Graduate Course), Summer 2022
+Methods for analyzing and modeling textual data (Graduate), Summer 2022
 
 *Georgia State University* 
-Media, Culture and Society (Undergraduate Course), Spring 2020
+Media, Culture and Society (Undergraduate), Spring 2020
 
 ## Guest Lectures
 
