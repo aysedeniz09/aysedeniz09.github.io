@@ -57,16 +57,6 @@ body {
 }
 
 /* Dropdown Menu */
-.dropdown:hover .dropdown-menu {
-    display: block;
-}
-
-.dropdown-toggle {
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-}
-
 .dropdown-menu {
     display: none;
     position: absolute;
@@ -80,16 +70,24 @@ body {
 }
 
 .dropdown-menu li {
-    padding: 10px;
+    padding: 8px 12px; /* Reduce padding */
 }
 
 .dropdown-menu a {
     color: #fff;
     display: block;
+    text-decoration: none;
 }
 
 .dropdown-menu a:hover {
     background-color: #555;
+}
+
+/* Divider Styling */
+.divider {
+    height: 1px; /* Thinner line */
+    background-color: #666; /* Lighter color */
+    margin: 3px 0; /* Reduce spacing around divider */
 }
 
 /* Divider Styling */
