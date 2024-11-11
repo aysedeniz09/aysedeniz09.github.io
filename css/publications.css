@@ -1,0 +1,93 @@
+/* Basic Styling for the Content */
+.cv-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.cv-content h2 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.legend {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.legend p span {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+/* Publication Entry Styling */
+.publication-entry {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Year Badge Styling */
+.year-badge {
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+/* Colors for Year Badges */
+.journal { background-color: #003f87; } /* Blue for Journal Articles */
+.book { background-color: #800080; } /* Purple for Book Chapters */
+.edited-journal { background-color: #ff6347; } /* Tomato for Edited Journals/Symposiums */
+.preprint { background-color: #ff8c00; } /* Dark Orange for Preprints */
+.report { background-color: #4682b4; } /* Steel Blue for Reports */
+.book-review { background-color: #6a5acd; } /* Slate Blue for Book Reviews */
+.policy-article { background-color: #008080; } /* Teal for Policy Articles */
+
+/* DOI Link Styling */
+.doi-link {
+    display: inline-block;
+    padding: 3px 8px;
+    color: white;
+    background-color: #555;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+
+.doi-link:hover {
+    background-color: #333;
+}
+
+/* Publication Entry Text Styling */
+.publication-entry h4 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.publication-entry p {
+    font-size: 1em;
+    color: #666;
+    margin: 5px 0;
+}
+
+.publication-entry h5 {
+    font-size: 1em; /* Match paragraph font size */
+    font-weight: normal; /* Make it look similar to <p> */
+    margin: 0; /* Remove default margin for consistency */
+}
+
