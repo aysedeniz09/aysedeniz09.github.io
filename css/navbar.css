@@ -86,6 +86,10 @@
     background-color: #555;
 }
 
+.nav-menu .dropdown:hover .dropdown-menu {
+    display: block;
+}
+
 /* Mobile Toggle Button */
 .nav-toggle {
     display: none;

@@ -51,16 +51,37 @@ body {
     color: #007bff;
 }
 
+/* PDF link styling */
+.pdf-link {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pdf-link:hover {
+    background-color: #0056b3;
+}
+
+
 /* CV Content Styling */
 /* Center and pad the main content */
 .cv-content {
+    position: relative;
     margin: 0 auto;
     padding: 20px;
-    padding-top: 50px;
+    padding-top: 75px;
     max-width: 800px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-top: 80px; 
 }
 
 /* Ensure all sections are aligned consistently */
