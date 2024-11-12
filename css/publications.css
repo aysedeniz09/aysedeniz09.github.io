@@ -1,6 +1,10 @@
 /* Basic Styling for the Content */
+body {
+    font-family: Georgia, serif;
+}
+
 .cv-content {
-    max-width: 800px;
+    max-width: 70%;
     margin: 0 auto;
     padding: 20px;
     margin-top: 50px;
@@ -58,6 +62,12 @@
 .policy-article { background-color: #008080; } /* Teal for Policy Articles */
 
 /* DOI Link Styling */
+.publication-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adjust the spacing between elements */
+}
+
 .doi-link {
     display: inline-block;
     padding: 3px 8px;
@@ -67,6 +77,7 @@
     text-decoration: none;
     font-size: 0.9em;
 }
+
 
 .doi-link:hover {
     background-color: #333;
