@@ -1,5 +1,5 @@
 // GitHub username
-const username = 'aysedeniz09'; // replace with your GitHub username
+const username = 'aysedeniz09'; // replace with your 
 
 // API URL
 const apiUrl = `https://api.github.com/users/${username}/repos`;
