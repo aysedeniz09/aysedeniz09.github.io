@@ -114,18 +114,62 @@
     display: inline-block;
 }
 
-/* Responsive adjustments for smaller screens */
-@media (max-width: 600px) {
-    .repo-card {
-        padding: 15px;
+/* Responsive design for small mobile devices (up to 468px) */
+@media (max-width: 468px) {
+    /* Center content and reduce padding for small screens */
+    .content-container,
+    .cv-content {
+        width: 95%;
+        margin: 30px auto; /* Add more top margin */
+        padding: 8px;
     }
 
-    .repo-card h3 {
+    /* Reduce font sizes for smaller screens */
+    h2 {
         font-size: 1.1em;
     }
 
-    .badge, .stats-badge {
-        font-size: 0.8em;
-        padding: 4px 8px;
+    h3, h4, h5 {
+        font-size: 1em;
+    }
+
+    p, a, .doi-link {
+        font-size: 0.9em;
+    }
+
+    /* Further reduce profile photo size and center it */
+    .profile-pic {
+        width: 60px;
+        height: 60px;
+        margin: 0 auto 15px auto; /* Center and add bottom margin */
+        display: block;
+    }
+
+    /* Navbar adjustments for small screens */
+    .navbar-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav-menu {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    /* Hide sidebar if any for simplicity */
+    .sidebar {
+        display: none;
+    }
+
+    /* Adjust repository card width */
+    .repository-card,
+    .repo-card {
+        width: 100%;
+        margin-bottom: 12px;
+    }
+
+    /* Smaller badges and language color circles */
+    .badge, .repo-language {
+        font-size: 0.75em;
     }
 }
