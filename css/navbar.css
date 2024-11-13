@@ -1,8 +1,20 @@
+/* Root Variables for Font and Colors */
+:root {
+    --font-family: Georgia, serif;
+    --color-background: #333;
+    --color-text: #fff;
+    --color-accent: #007bff;
+    --color-dropdown-bg: #444;
+    --color-dropdown-hover: #555;
+    --color-badge: #007bff;
+}
+
 /* Basic Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: var(--font-family);
 }
 
 /* Navbar Styling */
@@ -10,15 +22,16 @@
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #333;
-    color: #fff;
+    background-color: var(--color-background);
+    color: var(--color-text);
     z-index: 1000;
-    padding: 10px 20px;
+    padding: 2vh 2vw; /* Responsive padding */
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
+/* Center navbar content */
 .navbar-container {
     max-width: 1200px;
     margin: 0 auto;
@@ -26,12 +39,13 @@
     align-items: center;
     justify-content: space-between;
     width: 100%;
+    padding: 0 2vw;
 }
 
 /* Logo Styling */
 .nav-logo {
-    color: #fff;
-    font-size: 1.5em;
+    color: var(--color-text);
+    font-size: 3vh; /* Responsive font size */
     font-weight: bold;
     text-decoration: none;
 }
@@ -41,7 +55,7 @@
     list-style: none;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 2vw;
 }
 
 .nav-menu li {
@@ -49,14 +63,15 @@
 }
 
 .nav-menu a {
-    color: #fff;
+    color: var(--color-text);
     text-decoration: none;
-    padding: 10px;
+    padding: 1vh 1vw; /* Responsive padding */
+    font-size: 2vh; /* Responsive font size */
     transition: color 0.3s ease;
 }
 
 .nav-menu a:hover {
-    color: #007bff;
+    color: var(--color-accent);
 }
 
 /* Dropdown Menu */
@@ -65,25 +80,26 @@
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #444;
+    background-color: var(--color-dropdown-bg);
     border-radius: 4px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     z-index: 1;
     min-width: 160px;
+    color: var(--color-text);
 }
 
 .dropdown-menu li {
-    padding: 8px 12px;
+    padding: 1vh 1vw; /* Responsive padding */
 }
 
 .dropdown-menu a {
-    color: #fff;
+    color: var(--color-text);
     display: block;
     text-decoration: none;
 }
 
 .dropdown-menu a:hover {
-    background-color: #555;
+    background-color: var(--color-dropdown-hover);
 }
 
 .nav-menu .dropdown:hover .dropdown-menu {
@@ -99,9 +115,9 @@
 }
 
 .hamburger {
-    width: 25px;
-    height: 2px;
-    background-color: #fff;
+    width: 3vw; /* Responsive width */
+    height: 0.5vh; /* Responsive height */
+    background-color: var(--color-text);
     display: block;
     position: relative;
 }
@@ -109,20 +125,20 @@
 .hamburger::before,
 .hamburger::after {
     content: "";
-    width: 25px;
-    height: 2px;
-    background-color: #fff;
+    width: 3vw; /* Responsive width */
+    height: 0.5vh; /* Responsive height */
+    background-color: var(--color-text);
     position: absolute;
     left: 0;
     transition: transform 0.3s;
 }
 
 .hamburger::before {
-    top: -8px;
+    top: -1.5vh; /* Responsive spacing */
 }
 
 .hamburger::after {
-    top: 8px;
+    top: 1.5vh; /* Responsive spacing */
 }
 
 /* Mobile Menu */
@@ -130,12 +146,12 @@
     .nav-menu {
         display: none;
         position: fixed;
-        top: 60px;
+        top: 8vh;
         right: 0;
-        width: 200px;
-        background-color: #333;
+        width: 50vw; /* Responsive width */
+        background-color: var(--color-background);
         flex-direction: column;
-        padding: 20px;
+        padding: 4vh 2vw; /* Responsive padding */
         box-shadow: -4px 0 8px rgba(0, 0, 0, 0.1);
     }
 
@@ -150,36 +166,13 @@
 
 /* Responsive design for small mobile devices (up to 468px) */
 @media (max-width: 468px) {
-    /* Center content and reduce padding for small screens */
     .content-container,
     .cv-content {
         width: 95%;
-        margin: 30px auto; /* Add more top margin */
-        padding: 8px;
+        margin: 10vh auto 3vh auto; /* Added top margin */
+        padding: 2vh; /* Responsive padding */
     }
 
-    /* Reduce font sizes for smaller screens */
-    h2 {
-        font-size: 1.1em;
-    }
-
-    h3, h4, h5 {
-        font-size: 1em;
-    }
-
-    p, a, .doi-link {
-        font-size: 0.9em;
-    }
-
-    /* Further reduce profile photo size and center it */
-    .profile-pic {
-        width: 60px;
-        height: 60px;
-        margin: 0 auto 15px auto; /* Center and add bottom margin */
-        display: block;
-    }
-
-    /* Navbar adjustments for small screens */
     .navbar-container {
         flex-direction: column;
         align-items: flex-start;
@@ -190,20 +183,12 @@
         width: 100%;
     }
 
-    /* Hide sidebar if any for simplicity */
-    .sidebar {
-        display: none;
+    /* Reduce font sizes for mobile */
+    .nav-logo {
+        font-size: 2.5vh;
     }
 
-    /* Adjust repository card width */
-    .repository-card,
-    .repo-card {
-        width: 100%;
-        margin-bottom: 12px;
-    }
-
-    /* Smaller badges and language color circles */
-    .badge, .repo-language {
-        font-size: 0.75em;
+    .nav-menu a {
+        font-size: 2vh;
     }
 }

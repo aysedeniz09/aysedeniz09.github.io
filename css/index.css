@@ -1,20 +1,32 @@
+/* Root Variables for Font and Colors */
+:root {
+    --font-family: Georgia, serif;
+    --color-text: #333;
+    --color-background: #f5f5f5;
+    --color-accent: #007bff;
+    --color-heading: #333;
+    --color-subheading: #666;
+    --box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    --max-width: 900px;
+}
+
 /* Basic Reset */
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: var(--font-family);
 }
 
 body {
-    font-family: Georgia, serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #f5f5f5;
+    color: var(--color-text);
+    background-color: var(--color-background);
 }
 
 /* Container for Consistent Width */
 .content-container {
-    max-width: 900px;
+    max-width: var(--max-width);
     margin: 0 auto;
     padding: 20px;
     margin-top: 80px;
@@ -22,21 +34,22 @@ body {
 
 /* About Section */
 .about {
-    max-width: 70%;
+    max-width: 100%;
     margin: 0 auto;
     margin-top: 80px;
     padding: 40px 20px;
     background: white;
     border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--box-shadow);
 }
 
 .about h1 {
     text-align: center;
-    font-size: 2.5em;
-    color: #333;
+    font-size: clamp(1.5rem, 3vw, 2.5rem); /* Adjusts font size responsively, max 2.5rem */
+    color: var(--color-heading);
     font-weight: 600;
     margin-bottom: 20px;
+    margin-top: 80px;
     border-bottom: 2px solid #eaeaea;
     padding-bottom: 10px;
 }
@@ -49,21 +62,21 @@ body {
 }
 
 .profile-pic {
-    width: 360px;
-    height: 360px;
+    width: clamp(100px, 20vw, 360px); /* Adjusts profile picture size responsively */
+    height: clamp(100px, 20vw, 360px);
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid #ddd;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    box-shadow: var(--box-shadow);
 }
 
 .profile-info {
     flex: 1;
-    color: #666;
+    color: var(--color-subheading);
 }
 
 .profile-info p {
-    font-size: 1.1em;
+    font-size: clamp(1rem, 2.5vw, 1.1rem); /* Adjusts paragraph font size responsively */
     margin-bottom: 10px;
     line-height: 1.7;
 }
@@ -75,8 +88,8 @@ body {
 }
 
 .news h2, .selected-papers h2, .social-links h2 {
-    font-size: 1.5em;
-    color: #333;
+    font-size: clamp(1.25rem, 2vw, 1.5rem); /* Responsive font size for headings */
+    color: var(--color-heading);
     font-weight: 600;
     margin-bottom: 10px;
     padding-bottom: 5px;
@@ -91,84 +104,47 @@ body {
 .social-links a {
     display: inline-block;
     margin: 0 8px;
-    color: #333;
+    color: var(--color-text);
     text-decoration: none;
     font-size: 1.2em;
     transition: color 0.3s ease;
 }
 
 .social-links a:hover {
-    color: #007bff; /* A soft blue for hover */
-}
-
-/* Additional Styling */
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-    color: #0056b3;
+    color: var(--color-accent);
 }
 
 /* Responsive Design for Mobile Devices */
 @media (max-width: 468px) {
-    /* Container for full width on mobile */
     .content-container {
         width: 95%;
         padding: 10px;
-        margin-top: 80px;
+        margin-top: 80px; /* Top margin for mobile */
     }
 
-    /* About Section Styling */
-    .about-section {
+    .about {
         padding: 15px;
-        text-align: justify;
-        background-color: #ffffff;
+        background-color: white;
         border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        box-shadow: var(--box-shadow);
     }
 
-    /* Responsive Profile Picture */
-    .profile-pic {
-        width: 100px; /* Smaller profile picture on mobile */
-        height: 100px;
-        margin: 0 auto;
-        display: block;
-        border-radius: 50%;
-        object-fit: cover;
+    .profile {
+        flex-direction: column; /* Stack profile picture and info vertically */
+        align-items: center;
     }
 
-    /* Responsive Text Styling */
-    .about-section p {
+    .profile-info p {
         text-align: justify;
-        font-size: 16px;
-        line-height: 1.5;
-    }
-
-    /* Centered headings and adjusted font size */
-    h1, h2, h3, h4, h5, h6 {
-        text-align: center;
-        font-size: 1.2em;
     }
 }
 
-/* Desktop Styling for About Section */
-.about-section {
-    max-width: 700px;
+/* Desktop Styling */
+.about {
+    max-width: var(--max-width);
     margin: 0 auto;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: white;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.profile-pic {
-    width: 150px; /* Default size for desktop */
-    height: 150px;
-    margin: 0 auto 20px;
-    display: block;
-    border-radius: 50%;
-    object-fit: cover;
+    box-shadow: var(--box-shadow);
 }

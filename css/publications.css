@@ -1,8 +1,21 @@
-/* Basic Styling for the Content */
-body {
-    font-family: Georgia, serif;
+/* Root Font and Colors */
+:root {
+    --font-family: Georgia, serif;
+    --color-background: #f5f5f5;
+    --color-text: #333;
+    --color-link: #007bff;
+    --color-link-hover: #0056b3;
 }
 
+/* Basic Styling for the Body */
+body {
+    font-family: var(--font-family);
+    color: var(--color-text);
+    background-color: var(--color-background);
+    font-size: 1vw;
+}
+
+/* Main Content Styling */
 .cv-content {
     max-width: 70%;
     margin: 0 auto;
@@ -13,13 +26,15 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
 }
 
+/* Page Heading */
 .cv-content h2 {
-    font-size: 2em;
+    font-size: clamp(1.2rem, 1.5vw, 2rem); /* Responsive font size */
     text-align: center;
     margin-bottom: 20px;
-    color: #333;
+    color: var(--color-text);
 }
 
+/* Legend Section */
 .legend {
     text-align: center;
     margin-bottom: 20px;
@@ -28,137 +43,144 @@ body {
 .legend p span {
     display: inline-block;
     margin: 0 5px;
-    padding: 5px 10px;
+    padding: 4px 8px;
     border-radius: 5px;
     color: white;
     font-weight: bold;
+    font-size: clamp(0.6rem, 0.8vw, 1rem); /* Responsive font size */
 }
 
 /* Publication Entry Styling */
 .publication-entry {
-    margin-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px;
     padding: 10px;
     border-bottom: 1px solid #ddd;
+}
+
+/* Left Column Styling */
+.publication-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    margin-right: 15px;
+}
+
+/* Right Column Styling */
+.publication-right {
+    flex: 1;
 }
 
 /* Year Badge Styling */
 .year-badge {
     display: inline-block;
-    padding: 5px 10px;
+    padding: 4px 8px;
     color: white;
     border-radius: 5px;
     font-weight: bold;
-    font-size: 14px;
-    margin-right: 10px;
+    font-size: clamp(0.6rem, 0.8vw, 1rem); /* Responsive font size */
+    margin-bottom: 8px;
 }
 
 /* Colors for Year Badges */
-.journal { background-color: #003f87; } /* Blue for Journal Articles */
-.book { background-color: #800080; } /* Purple for Book Chapters */
-.edited-journal { background-color: #ff6347; } /* Tomato for Edited Journals/Symposiums */
-.preprint { background-color: #ff8c00; } /* Dark Orange for Preprints */
-.report { background-color: #4682b4; } /* Steel Blue for Reports */
-.book-review { background-color: #6a5acd; } /* Slate Blue for Book Reviews */
-.policy-article { background-color: #008080; } /* Teal for Policy Articles */
+.journal { background-color: #003f87; }
+.book { background-color: #800080; }
+.edited-journal { background-color: #ff6347; }
+.preprint { background-color: #ff8c00; }
+.report { background-color: #4682b4; }
+.book-review { background-color: #6a5acd; }
+.policy-article { background-color: #008080; }
 
-/* DOI Link Styling */
+/* Altmetric Badge Styling */
+.altmetric-badge {
+    width: 15px;
+    height: 15px;
+}
+
 .publication-actions {
     display: flex;
     align-items: center;
-    gap: 10px; /* Adjust the spacing between elements */
+    gap: 8px;
 }
 
-.doi-link {
+/* Link Styling */
+.doi-link, .link-btn {
     display: inline-block;
-    padding: 3px 8px;
+    padding: 2px 6px;
     color: white;
     background-color: #555;
     border-radius: 3px;
     text-decoration: none;
-    font-size: 0.9em;
+    font-size: clamp(0.5rem, 0.6vw, 0.8rem); /* Responsive font size */
 }
 
-
-.doi-link:hover {
+.doi-link:hover, .link-btn:hover {
     background-color: #333;
+}
+
+.publication-actions .altmetric-embed {
+    max-width: 45px;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+    display: inline-block;
+    transform: scale(0.6); /* Reduced scale */
+    transform-origin: left;
+    margin-left: 5px;
 }
 
 /* Publication Entry Text Styling */
 .publication-entry h4 {
     margin: 0;
-    font-size: 1.2em;
-    color: #333;
+    font-size: clamp(0.6rem, 0.8vw, 1rem); /* Responsive font size */
+    color: var(--color-text);
 }
 
 .publication-entry p {
-    font-size: 1em;
+    font-size: clamp(0.4rem, 0.6vw, 0.8rem); /* Responsive font size */
     color: #666;
     margin: 5px 0;
+    margin-bottom: 5%;
 }
 
 .publication-entry h5 {
-    font-size: 1em; /* Match paragraph font size */
-    font-weight: normal; /* Make it look similar to <p> */
-    margin: 0; /* Remove default margin for consistency */
+    font-size: clamp(0.4rem, 0.6vw, 0.8rem); /* Responsive font size */
+    font-weight: normal;
+    margin: 0;
+}
+
+.publication-right p {
+    font-size: clamp(0.4rem, 0.6vw, 0.8rem); /* Responsive font size */
 }
 
 /* Responsive design for small mobile devices (up to 468px) */
 @media (max-width: 468px) {
-    /* Center content and reduce padding for small screens */
-    .content-container,
     .cv-content {
         width: 95%;
-        margin: 30px auto; /* Add more top margin */
+        margin: 20px auto;
         padding: 8px;
     }
 
-    /* Reduce font sizes for smaller screens */
     h2 {
-        font-size: 1.1em;
+        font-size: 3vw;
     }
 
     h3, h4, h5 {
-        font-size: 1em;
+        font-size: 2.5vw;
     }
 
     p, a, .doi-link {
-        font-size: 0.9em;
+        font-size: 2vw;
     }
 
-    /* Further reduce profile photo size and center it */
-    .profile-pic {
-        width: 60px;
-        height: 60px;
-        margin: 0 auto 15px auto; /* Center and add bottom margin */
-        display: block;
+    .year-badge {
+        font-size: 2vw;
     }
 
-    /* Navbar adjustments for small screens */
-    .navbar-container {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .nav-menu {
-        flex-direction: column;
-        width: 100%;
-    }
-
-    /* Hide sidebar if any for simplicity */
-    .sidebar {
-        display: none;
-    }
-
-    /* Adjust repository card width */
-    .repository-card,
-    .repo-card {
-        width: 100%;
-        margin-bottom: 12px;
-    }
-
-    /* Smaller badges and language color circles */
-    .badge, .repo-language {
-        font-size: 0.75em;
+    .publication-actions .altmetric-embed {
+        transform: scale(0.2); /* Further reduced scale */
+        transform-origin: left;
     }
 }
-

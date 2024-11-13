@@ -1,97 +1,102 @@
+/* Root Variables for Font and Colors */
+:root {
+    --font-family: Georgia, serif;
+    --color-background: #f5f5f5;
+    --color-text: #333;
+    --color-primary: #007bff;
+    --color-accent: #1e3a8a;
+    --color-shadow: rgba(0, 0, 0, 0.1);
+    --color-secondary-bg: #f9f9f9;
+    --color-border: #ddd;
+}
+
 /* Basic Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: var(--font-family);
 }
 
 body {
-    font-family: Georgia, serif;
+    background-color: var(--color-background);
+    color: var(--color-text);
     line-height: 1.6;
-    color: #333;
-    background-color: #f5f5f5;
 }
-
-
 
 /* PDF link styling */
 .pdf-link {
     position: absolute;
     top: 20px;
     right: 20px;
-    background-color: #007bff;
+    background-color: var(--color-primary);
     color: #fff;
-    padding: 8px 12px;
+    padding: 0.5vw 1vw;
     border-radius: 4px;
     text-decoration: none;
     font-weight: bold;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px var(--color-shadow);
 }
 
 .pdf-link:hover {
-    background-color: #0056b3;
+    background-color: darken(var(--color-primary), 10%);
 }
 
-
 /* CV Content Styling */
-/* Center and pad the main content */
 .cv-content {
     position: relative;
-    margin: 0 auto;
-    padding: 20px;
-    padding-top: 75px;
+    margin: 80px auto;
+    padding: 2vw;
     max-width: 70%;
     background-color: #fff;
     border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    margin-top: 80px;
+    box-shadow: 0 4px 12px var(--color-shadow);
 }
 
-/* Ensure all sections are aligned consistently */
 .cv-section {
-    margin-bottom: 30px;
+    margin-bottom: 3vh;
 }
 
-/* Style for individual items in each section */
+/* CV Item Styling */
 .cv-item {
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
+    background-color: var(--color-secondary-bg);
+    border: 1px solid var(--color-border);
     border-radius: 8px;
-    padding: 15px;
-    margin-bottom: 15px;
+    padding: 1vw;
+    margin-bottom: 1vh;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-    width: 100%;
+    font-size: 1em;
+    font-weight: normal;
 }
 
-/* Remove bullet points and add padding for list items */
-.cv-item ul {
-    list-style: none;
-    padding-left: 20px;
+.cv-item ul li {
+    font-size: 1vh; 
+    font-weight: normal; 
+    line-height: 1.6; /
+    list-style: none; 
+    margin-left: 0; 
+    list-style-type: none;
 }
 
-.cv-item li {
-    margin-bottom: 5px;
-}
-
-/* Publications Section Styling */
+/* Publications Section */
 .publication-entry {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 20px;
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
+    margin-bottom: 2vh;
+    padding: 1vw;
+    border-bottom: 1px solid var(--color-border);
 }
 
 .publication-date {
-    background-color: #1e3a8a;
-    color: #ffffff;
-    padding: 8px 12px;
+    background-color: var(--color-accent);
+    color: #fff;
+    padding: 0.5vw 1vw;
     border-radius: 4px;
     font-weight: bold;
-    font-size: 0.9em;
-    width: 80px;
+    font-size: 1vw;
+    width: 10vw;
     text-align: center;
-    margin-right: 20px;
+    margin-right: 2vw;
 }
 
 .publication-details {
@@ -102,45 +107,43 @@ body {
     display: inline-block;
     background-color: #555;
     color: #fff;
-    padding: 4px 8px;
+    padding: 0.3vw 0.6vw;
     border-radius: 4px;
     text-decoration: none;
-    font-size: 0.9em;
+    font-size: 1vw;
 }
 
 .doi-link:hover {
     background-color: #333;
 }
 
-/* Responsive design for small mobile devices (up to 468px) */
+/* Responsive design for small devices */
 @media (max-width: 468px) {
     /* Center content and reduce padding for small screens */
-    .content-container,
     .cv-content {
         width: 95%;
-        margin: 30px auto; /* Add more top margin */
+        margin-top: 80px;
         padding: 8px;
     }
 
     /* Reduce font sizes for smaller screens */
     h2 {
-        font-size: 1.1em;
+        font-size: 2vw;
+        margin-top: 2vh;
     }
 
     h3, h4, h5 {
-        font-size: 1em;
+        font-size: 1.8vw;
     }
 
     p, a, .doi-link {
-        font-size: 0.9em;
+        font-size: 1.5vw;
     }
 
-    /* Further reduce profile photo size and center it */
-    .profile-pic {
-        width: 60px;
-        height: 60px;
-        margin: 0 auto 15px auto; /* Center and add bottom margin */
-        display: block;
+    .publication-date {
+        font-size: 2.5vw;
+        width: auto;
+        padding: 0.5vw 1vw;
     }
 
     /* Navbar adjustments for small screens */
@@ -154,19 +157,6 @@ body {
         width: 100%;
     }
 
-    /* Hide sidebar if any for simplicity */
-    .sidebar {
-        display: none;
-    }
-
-    /* Adjust repository card width */
-    .repository-card,
-    .repo-card {
-        width: 100%;
-        margin-bottom: 12px;
-    }
-
-    /* Smaller badges and language color circles */
     .badge, .repo-language {
         font-size: 0.75em;
     }

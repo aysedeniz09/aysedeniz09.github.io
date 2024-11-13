@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications</title>
+    <title>Repositories</title>
     <link rel="stylesheet" href="../css/navbar.css">
     <link rel="stylesheet" href="../css/repositories.css">
 </head>
@@ -12,7 +12,7 @@
 <!-- Fixed Top Navigation Bar -->
 <nav class="navbar">
     <div class="navbar-container">
-        <a href="/" class="nav-logo">Ayse D. Lokmanoglu</a>
+        <a href="/" class="nav-logo">ADL</a>
         <button id="nav-toggle" class="nav-toggle">
             <span class="hamburger"></span>
         </button>
@@ -36,13 +36,10 @@
 <!-- Repositories Section -->
 
 <div class="content-container">
-       <div class="github-stats">
+    <div class="github-stats">
         <img class="repo-img-light w-100" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=aysedeniz09&theme=default&show_icons=true">
     </div>
-<div class="language-legend">
-        <div class="language-legend-item">
-            <span class="language-dot" style="background-color: #f1e05a;"></span> JavaScript
-        </div>
+    <div class="language-legend">
         <div class="language-legend-item">
             <span class="language-dot" style="background-color: #3572A5;"></span> Python
         </div>
@@ -53,9 +50,6 @@
             <span class="language-dot" style="background-color: #563d7c;"></span> CSS
         </div>
         <div class="language-legend-item">
-            <span class="language-dot" style="background-color: #b07219;"></span> Java
-        </div>
-        <div class="language-legend-item">
             <span class="language-dot" style="background-color: #DA5B0B;"></span> Jupyter Notebook
         </div>
         <div class="language-legend-item">
@@ -63,16 +57,13 @@
         </div>
     </div>
 
-<div id="repo-container">
-
-    <h1>Repositories</h1>
-    <div class="repository-list">
-        <!-- Repository data will be loaded here dynamically -->
+    <div id="repo-container">
+        <h1>Repositories</h1>
+        <div class="repository-list">
+        </div>
     </div>
 </div>
-</div>
 
-<!-- Include the JavaScript to fetch data -->
 <script src="/assets/js/repositories.js"></script>
 <script src="/assets/js/navbar.js"></script>
 </body>

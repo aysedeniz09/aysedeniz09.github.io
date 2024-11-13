@@ -1,5 +1,5 @@
 // GitHub username
-const username = 'aysedeniz09'; // replace with your 
+const username = 'aysedeniz09'; // replace with your GitHub username
 
 // API URL
 const apiUrl = `https://api.github.com/users/${username}/repos`;
@@ -7,9 +7,11 @@ const apiUrl = `https://api.github.com/users/${username}/repos`;
 // Function to fetch repositories
 async function fetchRepositories() {
     try {
+        // Fetch the repositories
         const response = await fetch(apiUrl, {
             headers: {
-                Authorization: `token ${process.env.GITHUB_TOKEN || 'default_token'}` // use the token from the environment variable
+                // Use token from environment variable if available, else provide a placeholder for testing purposes
+                Authorization: `Bearer ${process.env.GITHUB_TOKEN || 'your_default_token_here'}`
             }
         });
 
@@ -27,18 +29,17 @@ async function fetchRepositories() {
 
         repoContainer.innerHTML = ''; // Clear any existing content
 
-        repos.forEach(repo => {
-            // Language color object
-            const languageColors = {
-                "JavaScript": "#f1e05a",
-                "Python": "#3572A5",
-                "HTML": "#e34c26",
-                "CSS": "#563d7c",
-                "Java": "#b07219",
-                "Jupyter Notebook": "#DA5B0B",
-                "R": "#198CE7",
-            };
+        // Define language colors
+        const languageColors = {
+            "JavaScript": "#f1e05a",
+            "Python": "#3572A5",
+            "HTML": "#e34c26",
+            "CSS": "#563d7c",
+            "Jupyter Notebook": "#DA5B0B",
+            "R": "#198CE7"
+        };
 
+        repos.forEach(repo => {
             const languageColor = languageColors[repo.language] || '#cccccc';
 
             // Create repository card
@@ -52,9 +53,9 @@ async function fetchRepositories() {
                     ${repo.language ? `<span class="repo-language" style="color: ${languageColor};">&#9679;</span> ${repo.language}` : ''}
                 </div>
                 <div class="badges">
-                    <span class="badge">⭐ ${repo.stargazers_count}</span>
-                    <span class="badge">🍴 ${repo.forks_count}</span>
-                    <span class="badge">🚨 ${repo.open_issues_count}</span>
+                    <span class="badge">⭐ ${repo.stargazers_count || 0}</span>
+                    <span class="badge">🍴 ${repo.forks_count || 0}</span>
+                    <span class="badge">🚨 ${repo.open_issues_count || 0}</span>
                 </div>
             `;
 
