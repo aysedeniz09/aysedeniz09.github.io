@@ -4,8 +4,8 @@
     --color-background: #333;
     --color-text: #fff;
     --color-accent: #007bff;
-    --color-dropdown-bg: #444;
-    --color-dropdown-hover: #555;
+    --color-dropdown-bg:  #fff;
+    --color-dropdown-hover: #999;
     --color-badge: #007bff;
 }
 
@@ -60,6 +60,7 @@
 
 .nav-menu li {
     position: relative;
+    list-style-type: none;
 }
 
 .nav-menu a {

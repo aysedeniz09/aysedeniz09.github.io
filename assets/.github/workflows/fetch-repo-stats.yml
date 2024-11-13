@@ -32,4 +32,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.API_KEY_GB }} # Use the API key from secrets
         run: |
-          node your-fetch-script.js # Replace this with the actual script you use to fetch stats
+          node assets/js/repositories.js # Replace this with the actual script you use to fetch stats

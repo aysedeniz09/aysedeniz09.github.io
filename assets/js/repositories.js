@@ -7,13 +7,8 @@ const apiUrl = `https://api.github.com/users/${username}/repos`;
 // Function to fetch repositories
 async function fetchRepositories() {
     try {
-        // Fetch the repositories
-        const response = await fetch(apiUrl, {
-            headers: {
-                // Use token from environment variable if available, else provide a placeholder for testing purposes
-                Authorization: `Bearer ${process.env.GITHUB_TOKEN || 'your_default_token_here'}`
-            }
-        });
+        // Fetch the repositories without using an authorization header
+        const response = await fetch(apiUrl);
 
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
