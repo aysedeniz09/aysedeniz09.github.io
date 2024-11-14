@@ -57,6 +57,7 @@ body {
     margin-bottom: 15px;
     padding: 10px;
     border-bottom: 1px solid #ddd;
+    justify-content: flex-start;
 }
 
 /* Left Column Styling */
@@ -71,8 +72,8 @@ body {
 /* Right Column Styling */
 .publication-right {
     flex: 1;
+    text-align: left;
 }
-
 /* Year Badge Styling */
 .year-badge {
     display: inline-block;
@@ -95,26 +96,37 @@ body {
 
 /* Altmetric Badge Styling */
 .altmetric-badge {
-    width: 15px;
-    height: 15px;
+    max-width: 45px;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+    display: inline-block;
+    transform: scale(0.6); /* Reduced scale */
+    transform-origin: left;
+    margin-right: 8px; /* Space between Altmetric and DOI */
 }
 
 .publication-actions {
     display: flex;
     align-items: center;
     gap: 8px;
+    justify-content: flex-end;
+    margin-top: 10px;
 }
 
 /* Link Styling */
 .doi-link, .link-btn {
-    display: inline-block;
-    padding: 2px 6px;
-    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the DOI text within the button */
+    padding: 5px 10px;
     background-color: #555;
+    color: white;
     border-radius: 3px;
     text-decoration: none;
     font-size: clamp(0.5rem, 0.6vw, 0.8rem); /* Responsive font size */
 }
+
 
 .doi-link:hover, .link-btn:hover {
     background-color: #333;
