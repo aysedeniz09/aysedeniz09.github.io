@@ -54,8 +54,8 @@ body {
 .publication-entry {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 15px;
-    padding: 10px;
+    margin-bottom: 20px;
+    padding: 15px;
     border-bottom: 1px solid #ddd;
     justify-content: flex-start;
 }
@@ -63,17 +63,12 @@ body {
 /* Left Column Styling */
 .publication-left {
     display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-    margin-right: 15px;
+    flex-direction: column; /* Stack vertically */
+    align-items: flex-start; /* Align to the left */
+    gap: 10px; /* Space between items */
+    margin-right: 20px;
 }
 
-/* Right Column Styling */
-.publication-right {
-    flex: 1;
-    text-align: left;
-}
 /* Year Badge Styling */
 .year-badge {
     display: inline-block;
@@ -82,7 +77,8 @@ body {
     border-radius: 5px;
     font-weight: bold;
     font-size: clamp(0.6rem, 0.8vw, 1rem); /* Responsive font size */
-    margin-bottom: 8px;
+    background-color: #555; /* Default color */
+    margin-bottom: 5px;
 }
 
 /* Colors for Year Badges */
@@ -103,68 +99,67 @@ body {
     display: inline-block;
     transform: scale(0.6); /* Reduced scale */
     transform-origin: left;
-    margin-right: 8px; /* Space between Altmetric and DOI */
+    margin-right: 10px; /* Space between Altmetric and DOI */
 }
 
+.no-altmetric .altmetric-embed {
+    display: none; /* Ensure the badge container is hidden */
+}
+.no-altmetric .publication-actions {
+    gap: 0; /* Adjust the layout if the badge is hidden */
+}
+
+/* Publication Actions Styling */
 .publication-actions {
     display: flex;
     align-items: center;
-    gap: 8px;
-    justify-content: flex-end;
-    margin-top: 10px;
+    gap: 10px; /* Space between Altmetric and DOI */
+}
+
+.publication-actions a:empty, /* Hide empty links */
+.publication-actions a[href="?"] {
+    display: none; /* Hide if DOI is "?" */
 }
 
 /* Link Styling */
 .doi-link, .link-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center; /* Center the DOI text within the button */
+    display: inline-block;
     padding: 5px 10px;
     background-color: #555;
     color: white;
     border-radius: 3px;
     text-decoration: none;
-    font-size: clamp(0.5rem, 0.6vw, 0.8rem); /* Responsive font size */
+    font-size: clamp(0.6rem, 0.8vw, 1rem); /* Responsive font size */
 }
-
 
 .doi-link:hover, .link-btn:hover {
     background-color: #333;
 }
 
-.publication-actions .altmetric-embed {
-    max-width: 45px;
-    width: 100%;
-    height: auto;
-    overflow: visible;
-    display: inline-block;
-    transform: scale(0.6); /* Reduced scale */
-    transform-origin: left;
-    margin-left: 5px;
+/* Right Column Styling */
+.publication-right {
+    flex: 1;
+    text-align: left;
 }
 
 /* Publication Entry Text Styling */
 .publication-entry h4 {
     margin: 0;
-    font-size: clamp(0.6rem, 0.8vw, 1rem); /* Responsive font size */
+    font-size: clamp(0.8rem, 1vw, 1.2rem); /* Responsive font size */
     color: var(--color-text);
-}
-
-.publication-entry p {
-    font-size: clamp(0.4rem, 0.6vw, 0.8rem); /* Responsive font size */
-    color: #666;
-    margin: 5px 0;
-    margin-bottom: 5%;
+    margin-bottom: 5px;
 }
 
 .publication-entry h5 {
-    font-size: clamp(0.4rem, 0.6vw, 0.8rem); /* Responsive font size */
+    font-size: clamp(0.6rem, 0.8vw, 1rem); /* Responsive font size */
     font-weight: normal;
     margin: 0;
 }
 
-.publication-right p {
-    font-size: clamp(0.4rem, 0.6vw, 0.8rem); /* Responsive font size */
+.publication-entry p {
+    font-size: clamp(0.6rem, 0.8vw, 1rem); /* Responsive font size */
+    color: #666;
+    margin: 5px 0;
 }
 
 /* Responsive design for small mobile devices (up to 468px) */
@@ -192,7 +187,7 @@ body {
     }
 
     .publication-actions .altmetric-embed {
-        transform: scale(0.2); /* Further reduced scale */
+        transform: scale(0.4); /* Reduced scale */
         transform-origin: left;
     }
 }

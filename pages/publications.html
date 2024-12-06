@@ -528,12 +528,19 @@
             </section>
 
             <script src="/assets/js/navbar.js"></script>
-            <script>
-                $(function () {
-                    $('div.altmetric-embed').on('altmetric:hide', function () {
-                        $(this).hide();
-                    });
-                });
-            </script>
+<!-- Include jQuery and your custom script -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(function () {
+        $('div.altmetric-embed').on('altmetric:show', function () {
+            console.log('Altmetric badge shown for', $(this));
+        });
+
+        $('div.altmetric-embed').on('altmetric:hide', function () {
+            console.log('Altmetric badge hidden for', $(this));
+            $(this).closest('.publication-entry').addClass('no-altmetric');
+        });
+    });
+</script>
 </body>
 </html>
