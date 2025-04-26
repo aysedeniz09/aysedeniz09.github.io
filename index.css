@@ -427,13 +427,13 @@ section h2 {
   }
 
   .sidebar {
-    all: unset;
-    width: 100%;
-    background-color: #333;
-    display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
-    padding: 10px 0;
+    gap: 10px;
+    padding: 10px;
+    background-color: #333;
   }
 
   .main-content {
@@ -464,19 +464,20 @@ section h2 {
   }
 
   h2 {
-    font-size: 3vw;
+    font-size: 5vw;
+    margin-top: 20px;
   }
 
   h3, h4, h5 {
-    font-size: 2.5vw;
+    font-size: 4vw;
   }
 
-  p, a, .doi-link {
-    font-size: 2vw;
+  p, a, .doi-link, li {
+    font-size: 3.2vw;
   }
 
   .year-badge {
-    font-size: 2vw;
+    font-size: 3vw;
   }
 
   .publication-actions {
@@ -488,4 +489,5 @@ section h2 {
     transform-origin: left;
   }
 }
+
 
