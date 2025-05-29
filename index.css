@@ -227,13 +227,13 @@ section h2 {
   margin-bottom: 5px;
 }
 
-.year-badge.journal { background-color: #003f87; }
-.year-badge.book { background-color: #800080; }
-.year-badge.edited-journal { background-color: #ff6347; }
-.year-badge.preprint { background-color: #ff8c00; }
-.year-badge.report { background-color: #4682b4; }
-.year-badge.book-review { background-color: #6a5acd; }
-.year-badge.policy-article { background-color: #008080; }
+.year-badge.journal { background-color: #003f87 !important; }
+.year-badge.book { background-color: #800080 !important; }
+.year-badge.edited-journal { background-color: #ff6347 !important; }
+.year-badge.preprint { background-color: #ff8c00 !important; }
+.year-badge.report { background-color: #4682b4 !important; }
+.year-badge.book-review { background-color: #6a5acd !important; }
+.year-badge.policy-article { background-color: #008080 !important; }
 
 .filter-button {
   border: none;
