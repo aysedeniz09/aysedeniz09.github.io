@@ -426,15 +426,9 @@ section h2 {
     display: block;
   }
 
-  .sidebar {
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    padding: 10px;
-    background-color: #333;
-  }
+.sidebar {
+  display: none !important;
+}
 
   .main-content {
     margin-left: 0;
