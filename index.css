@@ -356,6 +356,19 @@ section h2 {
 }
 
 
+#repositories .repo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 12px;
+}
+#repositories .repo-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+}
+
+
 /* ========== Teaching Section Styling ========== */
 
 .teaching-section {
