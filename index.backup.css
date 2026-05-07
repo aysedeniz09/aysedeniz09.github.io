@@ -50,6 +50,7 @@
   font-size: 1em;
 }
 
+
 .social-links {
   display: flex;
   flex-wrap: wrap;
@@ -78,6 +79,8 @@
   margin-right: 6px;
 }
 
+
+
 .cv-button {
   display: inline-block;
   margin-top: 10px;
@@ -91,11 +94,6 @@
 
 .cv-button:hover {
   background-color: #555;
-}
-
-/* ========== Mobile Contact Bar (hidden by default) ========== */
-.mobile-contact {
-  display: none;
 }
 
 /* Main Content Styling */
@@ -253,6 +251,7 @@ section h2 {
   opacity: 0.8;
 }
 
+/* Button-specific colors (already handled by class) */
 .filter-button.journal { background-color: #003f87; }
 .filter-button.book { background-color: #800080; }
 .filter-button.edited-journal { background-color: #ff6347; }
@@ -261,6 +260,7 @@ section h2 {
 .filter-button.book-review { background-color: #6a5acd; }
 .filter-button.policy-article { background-color: #008080; }
 .filter-button.all { background-color: #555; }
+
 
 .altmetric-badge {
   max-width: 45px;
@@ -339,65 +339,33 @@ section h2 {
 }
 
 
-/* ========== Repository Cards (custom, replaces github-readme-stats) ========== */
-#repositories .repo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 16px;
+
+/* ========== Repository Styling ========== */
+
+.github-stats {
+  display: flex;
+  justify-content: center;
   margin-top: 20px;
 }
 
-.repo-card {
-  display: block;
-  padding: 18px;
-  background: #fff;
-  border: 1px solid #e1e4e8;
+.github-card {
+  max-width: 100%;
+  height: auto;
   border-radius: 8px;
-  text-decoration: none;
-  color: inherit;
-  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
 }
 
-.repo-card:hover {
-  border-color: #0366d6;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-}
 
-.repo-card h4 {
-  margin: 0 0 10px;
-  font-size: 1.05em;
-  color: #0366d6;
+#repositories .repo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 12px;
 }
-
-.repo-card h4 i {
-  margin-right: 6px;
-  color: #333;
-}
-
-.repo-desc {
-  font-size: 0.9em;
-  color: #586069;
-  margin: 0 0 14px;
-  line-height: 1.4;
-  min-height: 2.6em;
-}
-
-.repo-meta {
-  display: flex;
-  gap: 14px;
-  font-size: 0.85em;
-  color: #586069;
-  flex-wrap: wrap;
-}
-
-.repo-meta i {
-  margin-right: 4px;
-}
-
-.repo-lang {
-  color: #f1c40f;
+#repositories .repo-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
 }
 
 
@@ -448,80 +416,8 @@ section h2 {
   color: #444;
 }
 
-
-/* ========== Mobile Responsive Styling ========== */
-/* Breakpoint raised from 468px → 768px so the sidebar hides on real phones,
-   and a mobile contact bar shows in its place containing the CV link. */
-@media (max-width: 768px) {
-  body {
-    display: block;
-  }
-
-  .sidebar {
-    display: none !important;
-  }
-
-  /* Show the mobile contact bar */
-  .mobile-contact {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 10px;
-    padding: 12px 16px;
-    background: #333;
-    color: #fff;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  }
-
-  .mobile-name {
-    font-weight: bold;
-    font-size: 1em;
-  }
-
-  .mobile-links {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-  }
-
-  .mobile-links a {
-    color: #fff;
-    background: #555;
-    padding: 6px 10px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-size: 0.85em;
-    transition: background 0.2s;
-  }
-
-  .mobile-links a:hover {
-    background: #777;
-  }
-
-  .mobile-links a i {
-    margin-right: 4px;
-  }
-
-  .main-content {
-    margin-left: 0;
-    padding: 20px;
-    max-width: 100%;
-  }
-
-  .profile {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .profile img {
-    margin-bottom: 20px;
-  }
-
+/* Mobile responsiveness */
+@media (max-width: 600px) {
   .institution {
     flex-direction: column;
     align-items: flex-start;
@@ -534,13 +430,40 @@ section h2 {
   }
 }
 
-/* Small phones */
+
+
+
+/* ========== Mobile Responsive Section Styling ========== */
 @media (max-width: 468px) {
+  body {
+    display: block;
+  }
+
+.sidebar {
+  display: none !important;
+}
+
+  .main-content {
+    margin-left: 0;
+    padding: 20px;
+    max-width: 100%;
+  }
+
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .profile img {
+    margin-bottom: 20px;
+  }
+
   .institution-logo {
     width: 50px;
     height: 50px;
   }
-
+  
   .cv-content {
     width: 95%;
     margin: 20px auto;
@@ -572,13 +495,6 @@ section h2 {
     transform: scale(0.4);
     transform-origin: left;
   }
-
-  .mobile-name {
-    font-size: 0.9em;
-  }
-
-  .mobile-links a {
-    font-size: 0.8em;
-    padding: 5px 8px;
-  }
 }
+
+

@@ -1,0 +1,14 @@
+# Backup files
+index.backup.css
+*.backup.*
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
