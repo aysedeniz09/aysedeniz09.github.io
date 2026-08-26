@@ -4,8 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Science &amp; Crisis Communication</title>
-  <link rel="stylesheet" href="/index.css">
-  <link rel="stylesheet" href="/assets/css/projects.css">
+  <link rel="stylesheet" href="../index.css">
+  <link rel="stylesheet" href="../assets/css/projects.css">
+  <script src="../navbar.js" defer></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
@@ -15,11 +16,20 @@
     </div>
     <nav>
       <ul>
-        <li><a href="/#about">About Me</a></li>
-        <li><a href="/#publications">Publications</a></li>
-        <li><a href="/#repositories">Repositories</a></li>
-        <li><a href="/#conferences">Conferences</a></li>
-        <li><a href="/#teaching">Teaching</a></li>
+        <li><a href="../index.html#about">About Me</a></li>
+        <li class="nav-dropdown">
+          <details>
+            <summary>Publications</summary>
+            <ul class="dropdown-list">
+              <li><a href="political_communication.html">Political Communication</a></li>
+              <li><a href="css_visuals_text.html">Computational Social Science: Visuals and Text</a></li>
+              <li><a href="science_crisis.html">Science &amp; Crisis Communication</a></li>
+            </ul>
+          </details>
+        </li>
+        <li><a href="../index.html#repositories">Repositories</a></li>
+        <li><a href="../index.html#conferences">Conferences</a></li>
+        <li><a href="../index.html#teaching">Teaching</a></li>
       </ul>
     </nav>
     <div class="contact-info">
@@ -27,7 +37,7 @@
       <div class="social-links">
         <a href="https://github.com/aysedeniz09" target="_blank"><i class="fab fa-github"></i> </a>
         <a href="https://www.linkedin.com/in/ayse-lokmanoglu-ph-d-11157225" target="_blank"><i class="fab fa-linkedin"></i></a>
-        <a href="/assets/pdf/resume.pdf" target="_blank"><i class="fas fa-file-download"></i> CV</a>
+        <a href="../assets/pdf/resume.pdf" target="_blank"><i class="fas fa-file-download"></i> CV</a>
       </div>
     </div>
   </aside>
@@ -39,12 +49,15 @@
       <a href="mailto:alokman@bu.edu" aria-label="Email"><i class="fas fa-envelope"></i></a>
       <a href="https://github.com/aysedeniz09" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/ayse-lokmanoglu-ph-d-11157225" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="/assets/pdf/resume.pdf" target="_blank"><i class="fas fa-file-download"></i> CV</a>
+      <a href="../assets/pdf/resume.pdf" target="_blank"><i class="fas fa-file-download"></i> CV</a>
+      <a href="political_communication.html" class="mobile-pub-link">Political Comm.</a>
+      <a href="css_visuals_text.html" class="mobile-pub-link">CSS: Visuals &amp; Text</a>
+      <a href="science_crisis.html" class="mobile-pub-link">Science &amp; Crisis</a>
     </div>
   </div>
 
   <main class="main-content">
-    <a href="/" class="back-home">← Back to Home</a>
+    <a href="../index.html" class="back-home">← Back to Home</a>
 
 <div class="project-container">
   <h1>Science &amp; Crisis Communication</h1>
@@ -507,7 +520,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<script src="/assets/js/navbar.js"></script>
 
 </body>
 </html>
