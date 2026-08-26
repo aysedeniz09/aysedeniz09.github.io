@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Political Communication</title>
-  <link rel="stylesheet" href="/index.css">
-  <link rel="stylesheet" href="/assets/css/projects.css">
-  <script src="/navbar.js" defer></script>
+  <link rel="stylesheet" href="../index.css">
+  <link rel="stylesheet" href="../assets/css/projects.css">
+  <script src="../navbar.js" defer></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
@@ -16,11 +16,20 @@
     </div>
     <nav>
       <ul>
-        <li><a href="/#about">About Me</a></li>
-        <li><a href="/#publications">Publications</a></li>
-        <li><a href="/#repositories">Repositories</a></li>
-        <li><a href="/#conferences">Conferences</a></li>
-        <li><a href="/#teaching">Teaching</a></li>
+        <li><a href="../index.html#about">About Me</a></li>
+        <li class="nav-dropdown">
+          <details>
+            <summary>Publications</summary>
+            <ul class="dropdown-list">
+              <li><a href="political_communication.html">Political Communication</a></li>
+              <li><a href="css_visuals_text.html">Computational Social Science: Visuals and Text</a></li>
+              <li><a href="science_crisis.html">Science &amp; Crisis Communication</a></li>
+            </ul>
+          </details>
+        </li>
+        <li><a href="../index.html#repositories">Repositories</a></li>
+        <li><a href="../index.html#conferences">Conferences</a></li>
+        <li><a href="../index.html#teaching">Teaching</a></li>
       </ul>
     </nav>
     <div class="contact-info">
@@ -28,7 +37,7 @@
       <div class="social-links">
         <a href="https://github.com/aysedeniz09" target="_blank"><i class="fab fa-github"></i> </a>
         <a href="https://www.linkedin.com/in/ayse-lokmanoglu-ph-d-11157225" target="_blank"><i class="fab fa-linkedin"></i></a>
-        <a href="/assets/pdf/resume.pdf" target="_blank"><i class="fas fa-file-download"></i> CV</a>
+        <a href="../assets/pdf/resume.pdf" target="_blank"><i class="fas fa-file-download"></i> CV</a>
       </div>
     </div>
   </aside>
@@ -40,12 +49,12 @@
       <a href="mailto:alokman@bu.edu" aria-label="Email"><i class="fas fa-envelope"></i></a>
       <a href="https://github.com/aysedeniz09" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/ayse-lokmanoglu-ph-d-11157225" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="/assets/pdf/resume.pdf" target="_blank"><i class="fas fa-file-download"></i> CV</a>
+      <a href="../assets/pdf/resume.pdf" target="_blank"><i class="fas fa-file-download"></i> CV</a>
     </div>
   </div>
 
   <main class="main-content">
-    <a href="/" class="back-home">← Back to Home</a>
+    <a href="../index.html" class="back-home">← Back to Home</a>
 
 <div class="project-container">
   <h1>Political Communication</h1>
@@ -68,14 +77,14 @@
     <div class="publication-entry book">
       <div class="publication-left">
         <span class="year-badge book">2026</span>
+        <div class="publication-actions">
+          <a href="https://www.routledge.com/Banal-Fascism-Online-Weaponizing-the-Everyday-for-Extreme-Ends/Pruden-Lokmanoglu-Stiverson-Conroy/p/book/9781032536163" target="_blank" class="doi-link">Link</a>
+        </div>
       </div>
       <div class="publication-right">
         <h4>Banal Fascism Online: Weaponizing the &ldquo;Everyday&rdquo; for Extreme Ends</h4>
         <h5>Meredith L. Pruden, <u>Ayse D. Lokmanoglu</u>, Heather Stiverson, &amp; Meredith Conroy (Eds.)</h5>
         <p><em>Routledge/Taylor &amp; Francis Group</em></p>
-        <div class="publication-actions">
-          <a href="https://www.routledge.com/Banal-Fascism-Online-Weaponizing-the-Everyday-for-Extreme-Ends/Pruden-Lokmanoglu-Stiverson-Conroy/p/book/9781032536163" target="_blank" class="doi-link">Link</a>
-        </div>
       </div>
     </div>
 
@@ -102,6 +111,9 @@
         <h4>The Meanings of News: How US Adults Think About the Word “News”</h4>
         <h5>Stephanie Edgerly, <u>Ayse D. Lokmanoglu</u>, Chris Dobmeier, &amp; Nathan Walter</h5>
         <p><em>Journalism &amp; Mass Communication Quarterly</em></p>
+        <div class="publication-actions">
+          <a href="https://github.com/aysedeniz09/meanings-of-news" target="_blank" class="doi-link">Code</a>
+        </div>
       </div>
     </div>
 
@@ -162,6 +174,9 @@
         <h4>Some assembly required: Unpacking the content and spread of Wayfair conspiracy theory on Reddit and Twitter</h4>
         <h5>Dror Walter, <u>Ayse D. Lokmanoglu</u>, Yotam Ophir, &amp; Eduard Fabregat</h5>
         <p><em>New Media &amp; Society</em></p>
+        <div class="publication-actions">
+          <a href="https://github.com/aysedeniz09/someassemblyrequired" target="_blank" class="doi-link">Code</a>
+        </div>
       </div>
     </div>
 
@@ -177,6 +192,9 @@
         <h4>Heaven Holds a Place for Those Who Pray: Instrumentalizing Religion and Disinformation in the 2022 Brazilian and 2023 Turkish Presidential Campaigns</h4>
         <h5>James Fitzgerald, <u>Ayse D. Lokmanoglu</u>, Deborah Salles, Marie Santini (All authors are first authors)</h5>
         <p><em>The International Journal of Press/Politics</em></p>
+        <div class="publication-actions">
+          <a href="https://github.com/aysedeniz09/heaven_holds_a_place_for_those_who_pray" target="_blank" class="doi-link">Code</a>
+        </div>
       </div>
     </div>
 
