@@ -327,6 +327,15 @@ section h2 {
 .filter-button.policy-article { background-color: #008080; }
 .filter-button.all { background-color: #555; }
 
+/* Smaller legend pills on publication pages (distinct from any future filter buttons) */
+.publication-legend .filter-button {
+  padding: 4px 10px;
+  margin: 3px;
+  font-size: 0.75em;
+  border-radius: 6px;
+}
+
+
 .altmetric-badge {
   max-width: 45px;
   width: 100%;
@@ -547,36 +556,77 @@ section h2 {
     font-size: 1em;
   }
 
-  .mobile-links {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
+  .mobile-menu {
+    position: relative;
   }
 
-  .mobile-links a {
+  .mobile-menu summary {
     color: #fff;
     background: #555;
-    padding: 6px 10px;
+    padding: 6px 14px;
     border-radius: 5px;
+    font-size: 0.9em;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .mobile-menu summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .mobile-menu summary::after {
+    content: " \25BE";
+  }
+
+  .mobile-menu[open] summary::after {
+    content: " \25B4";
+  }
+
+  .mobile-menu-panel {
+    position: fixed;
+    top: 52px;
+    left: 0;
+    right: 0;
+    max-height: calc(100vh - 52px);
+    overflow-y: auto;
+    background: #333;
+    padding: 16px 20px;
+    z-index: 200;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.35);
+  }
+
+  .mobile-menu-panel a {
+    display: block;
+    color: #fff;
     text-decoration: none;
-    font-size: 0.85em;
-    transition: background 0.2s;
+    padding: 10px 0;
+    font-size: 1em;
+    border-bottom: 1px solid #444;
   }
 
-  .mobile-links a:hover {
-    background: #777;
+  .mobile-menu-panel .mobile-sub a {
+    padding-left: 16px;
+    font-size: 0.9em;
+    color: #ccc;
+    border-bottom: none;
   }
 
-  .mobile-links a i {
-    margin-right: 4px;
+  .mobile-menu-panel .mobile-icons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 14px;
   }
 
-  .mobile-links a.mobile-pub-link {
-    background-color: #003f87;
-  }
-
-  .mobile-links a.mobile-pub-link:hover {
-    background-color: #0056b3;
+  .mobile-menu-panel .mobile-icons a {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: #555;
+    padding: 8px 12px;
+    border-radius: 5px;
+    border-bottom: none;
+    width: auto;
   }
 
 
