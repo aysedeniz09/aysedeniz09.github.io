@@ -27,7 +27,7 @@
             </ul>
           </details>
         </li>
-        <li><a href="../index.html#repositories">Repositories</a></li>
+        <li><a href="https://github.com/aysedeniz09" target="_blank">Repositories</a></li>
         <li><a href="../index.html#conferences">Conferences</a></li>
         <li><a href="../index.html#teaching">Teaching</a></li>
       </ul>
@@ -55,7 +55,7 @@
           <a href="css_visuals_text.html">Computational Social Science: Visuals and Text</a>
           <a href="science_crisis.html">Science &amp; Crisis Communication</a>
         </div>
-        <a href="../index.html#repositories">Repositories</a>
+        <a href="https://github.com/aysedeniz09" target="_blank">Repositories</a>
         <a href="../index.html#conferences">Conferences</a>
         <a href="../index.html#teaching">Teaching</a>
         <div class="mobile-icons">
@@ -84,10 +84,11 @@
   </ul>
 
   <div class="publication-legend" style="text-align:center; margin-bottom: 20px;">
-    <span class="filter-button journal">Journal Articles</span>
-    <span class="filter-button book">Book Chapters</span>
-    <span class="filter-button book-review">Book Reviews</span>
-    <span class="filter-button policy-article">Policy Articles</span>
+    <button class="filter-button journal" data-filter="journal">Journal Articles</button>
+    <button class="filter-button book" data-filter="book">Book Chapters</button>
+    <button class="filter-button book-review" data-filter="book-review">Book Reviews</button>
+    <button class="filter-button policy-article" data-filter="policy-article">Policy Articles</button>
+    <button class="filter-button all" data-filter="all" style="background-color:#555;">All</button>
   </div>
 
   <div class="publications">
@@ -525,6 +526,62 @@
         <p><em>In The Handbook of Communication and Security. Routledge</em></p>
       </div>
     </div>
+
+    <div class="publication-entry policy-article">
+      <div class="publication-left">
+        <span class="year-badge policy-article">2021</span>
+        <div class="publication-actions">
+          <a href="https://gnet-research.org/2021/11/26/censoring-extremism-impact-of-takedowns-on-islamic-state-visuals/" target="_blank" class="doi-link">Link</a>
+        </div>
+      </div>
+      <div class="publication-right">
+        <h4>Censoring Extremism: Impact of Takedowns on Islamic State Visuals</h4>
+        <h5>Kayla McMinimy &amp; <u>Ayse D. Lokmanoglu</u></h5>
+        <p><em>Global Network on Extremism &amp; Terrorism (GNET)</em></p>
+      </div>
+    </div>
+
+    <div class="publication-entry policy-article">
+      <div class="publication-left">
+        <span class="year-badge policy-article">2020</span>
+        <div class="publication-actions">
+          <a href="https://gnet-research.org/2020/11/13/baghdadi-fan-mail/" target="_blank" class="doi-link">Link</a>
+        </div>
+      </div>
+      <div class="publication-right">
+        <h4>Baghdadi Fan Mail: Hand-Written Bay&rsquo;ah and Announcements Collected from Islamic State Telegram Channels and Chats</h4>
+        <h5>Meili Criezis &amp; <u>Ayse D. Lokmanoglu</u></h5>
+        <p><em>Global Network on Extremism &amp; Terrorism (GNET)</em></p>
+      </div>
+    </div>
+
+    <div class="publication-entry policy-article">
+      <div class="publication-left">
+        <span class="year-badge policy-article">2020</span>
+        <div class="publication-actions">
+          <a href="http://theisisreader.com/islamic-states-coins-and-the-power-of-imagined-statehood/" target="_blank" class="doi-link">Link</a>
+        </div>
+      </div>
+      <div class="publication-right">
+        <h4>Islamic State&rsquo;s Coins and the Power of Imagined Statehood</h4>
+        <h5><u>Ayse D. Lokmanoglu</u></h5>
+        <p><em>The ISIS Reader</em></p>
+      </div>
+    </div>
+
+    <div class="publication-entry policy-article">
+      <div class="publication-left">
+        <span class="year-badge policy-article">2020</span>
+        <div class="publication-actions">
+          <a href="https://inkstickmedia.com/why-chaz-chop-failed/" target="_blank" class="doi-link">Link</a>
+        </div>
+      </div>
+      <div class="publication-right">
+        <h4>Why CHAZ/CHOP Failed</h4>
+        <h5>Benjamin V. Allison &amp; <u>Ayse D. Lokmanoglu</u></h5>
+        <p><em>Inkstick</em></p>
+      </div>
+    </div>
   </div>
 </div>
   </main>
@@ -533,5 +590,23 @@
 <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 
+
+<script>
+  const filterButtons = document.querySelectorAll('.filter-button');
+  const publications = document.querySelectorAll('.publication-entry');
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      const filter = button.getAttribute('data-filter');
+      publications.forEach(pub => {
+        if (filter === 'all' || pub.classList.contains(filter)) {
+          pub.style.display = 'flex';
+        } else {
+          pub.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
 </body>
 </html>

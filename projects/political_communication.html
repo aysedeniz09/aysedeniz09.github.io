@@ -27,7 +27,7 @@
             </ul>
           </details>
         </li>
-        <li><a href="../index.html#repositories">Repositories</a></li>
+        <li><a href="https://github.com/aysedeniz09" target="_blank">Repositories</a></li>
         <li><a href="../index.html#conferences">Conferences</a></li>
         <li><a href="../index.html#teaching">Teaching</a></li>
       </ul>
@@ -55,7 +55,7 @@
           <a href="css_visuals_text.html">Computational Social Science: Visuals and Text</a>
           <a href="science_crisis.html">Science &amp; Crisis Communication</a>
         </div>
-        <a href="../index.html#repositories">Repositories</a>
+        <a href="https://github.com/aysedeniz09" target="_blank">Repositories</a>
         <a href="../index.html#conferences">Conferences</a>
         <a href="../index.html#teaching">Teaching</a>
         <div class="mobile-icons">
@@ -83,9 +83,10 @@
   </ul>
 
   <div class="publication-legend" style="text-align:center; margin-bottom: 20px;">
-    <span class="filter-button journal">Journal Articles</span>
-    <span class="filter-button book">Book Chapters</span>
-    <span class="filter-button preprint">Preprints</span>
+    <button class="filter-button journal" data-filter="journal">Journal Articles</button>
+    <button class="filter-button book" data-filter="book">Book Chapters</button>
+    <button class="filter-button preprint" data-filter="preprint">Preprints</button>
+    <button class="filter-button all" data-filter="all" style="background-color:#555;">All</button>
   </div>
 
   <div class="publications">
@@ -119,6 +120,9 @@
         <h4>An Overview of Media Coverage Shifts Before and After the 2024 U.S. Presidential Election</h4>
         <h5><u>Ayse D. Lokmanoglu</u>, Ananya Gupta, Tess Hemmila, Amira Jadoon, Bart Knijenburg &amp; Arie Perliger</h5>
         <p><em>Journal of Political Marketing</em></p>
+        <div class="publication-actions">
+          <a href="https://github.com/aysedeniz09/Overview-of-Media-Coverage-Shifts" target="_blank" class="doi-link">Code</a>
+        </div>
       </div>
     </div>
 
@@ -257,6 +261,17 @@
         <p><em>Policy &amp; Internet, Special Issue</em></p>
       </div>
     </div>
+
+    <div class="publication-entry journal">
+      <div class="publication-left">
+        <span class="year-badge journal">2026</span>
+      </div>
+      <div class="publication-right">
+        <h4>Ports of Illiberalism: Cross-Platform Diffusion of Far Right, Conspiratorial, and Reactionary Rumble Videos on Facebook</h4>
+        <h5>Fatima Gaw, Chloe Mortenson, Hoda Fakhari, Rod Abhari, Iffat Fatima Hussain, <u>Ayse D. Lokmanoglu</u>, &amp; Erik C. Nisbet</h5>
+        <p><em>New Media &amp; Society</em></p>
+      </div>
+    </div>
   </div>
 </div>
   </main>
@@ -265,5 +280,23 @@
 <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 
+
+<script>
+  const filterButtons = document.querySelectorAll('.filter-button');
+  const publications = document.querySelectorAll('.publication-entry');
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      const filter = button.getAttribute('data-filter');
+      publications.forEach(pub => {
+        if (filter === 'all' || pub.classList.contains(filter)) {
+          pub.style.display = 'flex';
+        } else {
+          pub.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
 </body>
 </html>

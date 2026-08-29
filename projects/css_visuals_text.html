@@ -27,7 +27,7 @@
             </ul>
           </details>
         </li>
-        <li><a href="../index.html#repositories">Repositories</a></li>
+        <li><a href="https://github.com/aysedeniz09" target="_blank">Repositories</a></li>
         <li><a href="../index.html#conferences">Conferences</a></li>
         <li><a href="../index.html#teaching">Teaching</a></li>
       </ul>
@@ -55,7 +55,7 @@
           <a href="css_visuals_text.html">Computational Social Science: Visuals and Text</a>
           <a href="science_crisis.html">Science &amp; Crisis Communication</a>
         </div>
-        <a href="../index.html#repositories">Repositories</a>
+        <a href="https://github.com/aysedeniz09" target="_blank">Repositories</a>
         <a href="../index.html#conferences">Conferences</a>
         <a href="../index.html#teaching">Teaching</a>
         <div class="mobile-icons">
@@ -83,9 +83,10 @@
   </ul>
 
   <div class="publication-legend" style="text-align:center; margin-bottom: 20px;">
-    <span class="filter-button journal">Journal Articles</span>
-    <span class="filter-button preprint">Preprints</span>
-    <span class="filter-button report">Reports</span>
+    <button class="filter-button journal" data-filter="journal">Journal Articles</button>
+    <button class="filter-button preprint" data-filter="preprint">Preprints</button>
+    <button class="filter-button report" data-filter="report">Reports</button>
+    <button class="filter-button all" data-filter="all" style="background-color:#555;">All</button>
   </div>
 
   <div class="publications">
@@ -134,6 +135,9 @@
         <h4>Topic modeling of video and image data: a visual semantic unsupervised approach</h4>
         <h5><u>Ayse D. Lokmanoglu</u> &amp; Dror Walter</h5>
         <p><em>Communication Methods and Measures</em></p>
+        <div class="publication-actions">
+          <a href="https://github.com/aysedeniz09/ldaOptim" target="_blank" class="doi-link">Code</a>
+        </div>
       </div>
     </div>
 
@@ -149,6 +153,9 @@
         <h4>VisTopics: A Visual Semantic Unsupervised Approach to Topic Modeling of Video and Image Data</h4>
         <h5><u>Ayse D. Lokmanoglu</u> &amp; Dror Walter</h5>
         <p><em>arXiv</em></p>
+        <div class="publication-actions">
+          <a href="https://github.com/aysedeniz09/ldaOptim" target="_blank" class="doi-link">Code</a>
+        </div>
       </div>
     </div>
 
@@ -229,6 +236,17 @@
         </div>
       </div>
     </div>
+
+    <div class="publication-entry journal">
+      <div class="publication-left">
+        <span class="year-badge journal">2026</span>
+      </div>
+      <div class="publication-right">
+        <h4>Ports of Illiberalism: Cross-Platform Diffusion of Far Right, Conspiratorial, and Reactionary Rumble Videos on Facebook</h4>
+        <h5>Fatima Gaw, Chloe Mortenson, Hoda Fakhari, Rod Abhari, Iffat Fatima Hussain, <u>Ayse D. Lokmanoglu</u>, &amp; Erik C. Nisbet</h5>
+        <p><em>New Media &amp; Society</em></p>
+      </div>
+    </div>
   </div>
 </div>
   </main>
@@ -237,5 +255,23 @@
 <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 
+
+<script>
+  const filterButtons = document.querySelectorAll('.filter-button');
+  const publications = document.querySelectorAll('.publication-entry');
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      const filter = button.getAttribute('data-filter');
+      publications.forEach(pub => {
+        if (filter === 'all' || pub.classList.contains(filter)) {
+          pub.style.display = 'flex';
+        } else {
+          pub.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
 </body>
 </html>
